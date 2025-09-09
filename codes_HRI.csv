@@ -1,0 +1,88 @@
+﻿Name,Concept ID,Concept Code,Concept Name,Concept Class ID,Domain,Vocabulary
+heat_effects_MPM,40408850,212938002,"(Siriasis) or (thermoplegia) or (heat stroke, unspecified)",Clinical Finding,Condition,SNOMED
+heat_effects_MPM,433664,217593006,Accident due to hot weather,Event,Observation,SNOMED
+heat_effects_MPM,40317740,157913004,Accident due to hot weather,Event,Observation,SNOMED
+heat_effects_MPM,45454261,TE00.00,Accidents due to hot weather,Read,Observation,Read
+heat_effects_MPM,441180,16209006,Anhidrotic heat exhaustion,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,45427542,SN21.11,Collapse - heat,Read,Condition,Read
+heat_effects_MPM,45480539,M12y400,Contact dermatitis due to hot weather,Read,Condition,Read
+heat_effects_MPM,40396255,200872009,Contact dermatitis due to hot weather,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,4175119,48681004,Contact dermatitis due to hot weather,Clinical Finding,Condition,SNOMED
+heat related illness,19152,T67.9,"Effect of heat and light, unspecified",4-char nonbill code,Condition,ICD10CM
+heat related illness,45575497,T67.9XXA,"Effect of heat and light, unspecified, initial encounter",7-char billing code,Condition,ICD10CM
+heat_effects_MPM,45427541,SN2..00,Effects of heat and light,Read,Condition,Read
+heat related illness,1575134,T67,Effects of heat and light,3-char nonbill code,Observation,ICD10CM
+heat_effects_MPM,42536884,735907005,Exertional heat stroke,Clinical Finding,Condition,SNOMED
+heat related illness,1553949,T67.02,Exertional heatstroke,5-char nonbill code,Condition,ICD10CM
+heat related illness,1553950,T67.02XA,"Exertional heatstroke, initial encounter",7-char billing code,Condition,ICD10CM
+heat related illness,1553951,T67.02XD,"Exertional heatstroke, subsequent encounter",7-char billing code,Condition,ICD10CM
+heat related illness,19145,T67.2,Heat cramp,4-char nonbill code,Condition,ICD10CM
+heat_effects_MPM,78633,87108006,Heat cramp,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,40316724,157725005,Heat cramp,Clinical Finding,Condition,SNOMED
+heat related illness,45546638,T67.2XXA,"Heat cramp, initial encounter",7-char billing code,Condition,ICD10CM
+heat_effects_MPM,45484315,SN22.00,Heat cramps,Read,Condition,Read
+heat_effects_MPM,40351389,269277006,Heat exhaustion,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,40316725,157726006,Heat exhaustion,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,437744,95868006,Heat exhaustion,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,435702,76149006,Heat exhaustion due to salt depletion,Clinical Finding,Condition,SNOMED
+heat related illness,19147,T67.4,Heat exhaustion due to salt depletion,4-char nonbill code,Condition,ICD10CM
+heat_effects_MPM,45517567,SN24.00,Heat exhaustion due to salt depletion,Read,Condition,Read
+heat related illness,45585174,T67.4XXA,"Heat exhaustion due to salt depletion, initial encounter",7-char billing code,Condition,ICD10CM
+heat_effects_MPM,45520801,SN23.00,Heat exhaustion due to water depletion - anhydrotic,Read,Condition,Read
+heat related illness,19146,T67.3,"Heat exhaustion, anhydrotic",4-char nonbill code,Condition,ICD10CM
+heat related illness,45580354,T67.3XXA,"Heat exhaustion, anhydrotic, initial encounter",7-char billing code,Condition,ICD10CM
+heat_effects_MPM,45524093,SN25.00,"Heat exhaustion, unspecified",Read,Condition,Read
+heat related illness,19148,T67.5,"Heat exhaustion, unspecified",4-char nonbill code,Condition,ICD10CM
+heat related illness,45556202,T67.5XXA,"Heat exhaustion, unspecified, initial encounter",7-char billing code,Condition,ICD10CM
+heat_effects_MPM,4320028,95867001,Heat exposure,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,44836480,992.6,"Heat fatigue, transient",4-dig billing code,Condition,ICD9CM
+heat_effects_MPM,45524094,SN26.00,"Heat fatigue, transient",Read,Condition,Read
+heat related illness,19149,T67.6,"Heat fatigue, transient",4-char nonbill code,Condition,ICD10CM
+heat_effects_MPM,40316726,157727002,"Heat fatigue, transient",Clinical Finding,Condition,SNOMED
+heat related illness,45609265,T67.6XXA,"Heat fatigue, transient, initial encounter",7-char billing code,Condition,ICD10CM
+heat related illness,45541774,T67.6XXD,"Heat fatigue, transient, subsequent encounter",7-char billing code,Condition,ICD10CM
+heat_effects_MPM,45457480,SN27.00,Heat oedema,Read,Condition,Read
+heat_effects_MPM,4181404,52072009,Heat stroke,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,45530406,9920,HEAT STROKE,OXMIS,Condition,OXMIS
+heat_effects_MPM,40316722,157723003,Heat stroke &/or sunstroke,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,40351978,269423005,Heat stroke &/or sunstroke,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,434254,212937007,Heat stroke and sunstroke,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,45440808,SN20.00,Heat stroke and sunstroke,Read,Condition,Read
+heat_effects_MPM,4020864,212939005,Heat stroke or sunstroke NOS,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,3539910,6.72E+14,Heat stroke or sunstroke NOS,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,45524092,SN20z00,Heat stroke or sunstroke NOS,Read,Condition,Read
+heat_effects_MPM,3531703,5.45E+14,"Heat stroke, unspecified",Clinical Finding,Condition,SNOMED
+heat_effects_MPM,45517566,SN20000,"Heat stroke, unspecified",Read,Condition,Read
+heat_effects_MPM,4147031,269276002,"Heat stroke, unspecified",Clinical Finding,Condition,SNOMED
+heat_effects_MPM,140586,89797005,Heat syncope,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,44820249,992.1,Heat syncope,4-dig billing code,Condition,ICD9CM
+heat related illness,19144,T67.1,Heat syncope,4-char nonbill code,Condition,ICD10CM
+heat_effects_MPM,40316723,157724009,Heat syncope &/or collapse,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,40351979,269424004,Heat syncope &/or collapse,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,45520800,SN21.12,Heat syncope or collapse,Read,Condition,Read
+heat_effects_MPM,45507442,SN21.00,Heat syncope or collapse,Read,Condition,Read
+heat related illness,45551426,T67.1XXA,"Heat syncope, initial encounter",7-char billing code,Condition,ICD10CM
+heat related illness,45590009,T67.1XXD,"Heat syncope, subsequent encounter",7-char billing code,Condition,ICD10CM
+heat_effects_MPM,40408854,212941006,"Heat: [exhaustion, unspecified] or [prostration NOS]",Clinical Finding,Condition,SNOMED
+heat related illness,1553945,T67.01,Heatstroke and sunstroke,5-char nonbill code,Condition,ICD10CM
+heat related illness,19143,T67.0,Heatstroke and sunstroke,4-char nonbill code,Condition,ICD10CM
+heat related illness,45590008,T67.0XXA,"Heatstroke and sunstroke, initial encounter",7-char billing code,Condition,ICD10CM
+heat related illness,1553946,T67.01XA,"Heatstroke and sunstroke, initial encounter",7-char billing code,Condition,ICD10CM
+heat related illness,45556199,T67.0XXS,"Heatstroke and sunstroke, sequela",7-char billing code,Condition,ICD10CM
+heat related illness,1553948,T67.01XS,"Heatstroke and sunstroke, sequela",7-char billing code,Condition,ICD10CM
+heat related illness,45594853,T67.0XXD,"Heatstroke and sunstroke, subsequent encounter",7-char billing code,Condition,ICD10CM
+heat related illness,1553947,T67.01XD,"Heatstroke and sunstroke, subsequent encounter",7-char billing code,Condition,ICD10CM
+heat_effects_MPM,4237311,57955009,Hot weather,Physical Force,Observation,SNOMED
+heat_effects_MPM,45490919,SN20111,Ictus solaris,Read,Condition,Read
+heat related illness,19151,T67.8,Other effects of heat and light,4-char nonbill code,Observation,ICD10CM
+heat related illness,45604490,T67.8XXA,"Other effects of heat and light, initial encounter",7-char billing code,Observation,ICD10CM
+heat related illness,1553953,T67.09,Other heatstroke and sunstroke,5-char nonbill code,Condition,ICD10CM
+heat related illness,1553954,T67.09XA,"Other heatstroke and sunstroke, initial encounter",7-char billing code,Condition,ICD10CM
+heat related illness,1553955,T67.09XD,"Other heatstroke and sunstroke, subsequent encounter",7-char billing code,Condition,ICD10CM
+heat_effects_MPM,45467648,SN20011,Siriasis,Read,Condition,Read
+heat_effects_MPM,4090535,18615009,Sunstroke,Clinical Finding,Condition,SNOMED
+heat_effects_MPM,45487639,SN20100,Sunstroke,Read,Condition,Read
+heat_effects_MPM,45525404,9920N,SUNSTROKE,OXMIS,Condition,OXMIS
+heat_effects_MPM,45510803,SN20012,Thermoplegia,Read,Condition,Read
+heat_effects_MPM,442024,12979003,Transient heat fatigue,Clinical Finding,Condition,SNOMED
+Exposure to excess sunlight,4053945,242535001,Exposure to excess sunlight,Event,Observation,SNOMED
