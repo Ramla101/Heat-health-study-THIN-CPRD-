@@ -1,0 +1,373 @@
+"","drug_name","count"
+"1","nebivolol",478
+"2","atorvastatin",466
+"3","amlodipine",403
+"4","rosuvastatin",368
+"5","indapamide 1.",359
+"6","metoprolol",331
+"7","clopidogrel",313
+"8","pantoprazole",308
+"9","ibuprofen",286
+"10","no matching concept",273
+"11","omeprazole",273
+"12","perindopril",273
+"13","simvastatin",225
+"14","alfacalcidol",211
+"15","telmisartan",210
+"16","spironolactone",200
+"17","furosemide",194
+"18","diosmin",192
+"19","bisoprolol",185
+"20","pentoxifylline",173
+"21","betahistine",162
+"22","trimetazidine",156
+"23","tamsulosin 0.",154
+"24","alprazolam 0.",152
+"25","digoxin 0.",150
+"26","nitroglycerin 2.",142
+"27","tianeptine 12.",141
+"28","metoclopramide",139
+"29","furosemide / spironolactone",136
+"30","valsartan",134
+"31","esomeprazole",128
+"32","nicergoline",127
+"33","candesartan",122
+"34",NA,113
+"35","montelukast",111
+"36","vinpocetine",111
+"37","dipyrone",110
+"38","olmesartan",103
+"39","acetaminophen / tramadol 32.",100
+"40","trimebutine",100
+"41","mebeverine",98
+"42","allopurinol",97
+"43","acenocoumarol",96
+"44","amoxicillin",96
+"45","desloratadine",92
+"46","domperidone",92
+"47","levocetirizine",92
+"48","acetaminophen",88
+"49","dextromethorphan",87
+"50","esomeprazole / naproxen",87
+"51","lorazepam",87
+"52","apixaban",85
+"53","aspirin",85
+"54","fluconazole",81
+"55","levetiracetam",81
+"56","levothyroxine",80
+"57","candesartan cilexetil",74
+"58","ketoprofen",74
+"59","etoricoxib",72
+"60","isosorbide dinitrate",72
+"61","hydrochlorothiazide",71
+"62","indapamide 1. / perindopril",70
+"63","levocetirizine dihydrochloride",68
+"64","ramipril",68
+"65","lercanidipine",67
+"66","piracetam",67
+"67","prednisolone",66
+"68","bisoprolol 2.",64
+"69","acetaminophen / tramadol 37.",62
+"70","carvedilol 6.",62
+"71","dabigatran etexilate",62
+"72","metformin",62
+"73","theophylline",62
+"74","carbamazepine",61
+"75","fenofibrate",61
+"76","memantine",60
+"77","formoterol",56
+"78","cefixime",55
+"79","gabapentin",52
+"80","fenspiride",51
+"81","indapamide 2. / perindopril",50
+"82","bimatoprost 0./ml ophthalmic",49
+"83","budesonide",49
+"84","rilmenidine",47
+"85","carvedilol 12.",46
+"86","dorzolamide /ml / timolol /ml ophthalmic",46
+"87","dutasteride 0.",46
+"88","cinnarizine",45
+"89","apixaban 2.",44
+"90","azithromycin",44
+"91","nitroglycerin 0. sublingual",44
+"92","rifaximin",43
+"93","cefuroxime",38
+"94","cholecalciferol",38
+"95","vitamin d",38
+"96","indapamide 0. / perindopril 2.",34
+"97","levofloxacin",33
+"98","metoprolol tartrate",33
+"99","tiotropium",32
+"100","ibuprofen /ml",31
+"101","trihexyphenidyl hydrochloride",31
+"102","albuterol",30
+"103","ezetimibe",30
+"104","valproate",30
+"105","ascorbic acid",29
+"106","clonazepam 0.",28
+"107","entecavir 0.",27
+"108","risedronate",27
+"109","risedronic acid",27
+"110","clarithromycin",26
+"111","moxonidine 0.",26
+"112","erdosteine",25
+"113","alfacalcidol 0.",24
+"114","calcium gluconate",23
+"115","octylonium",23
+"116","sertraline",23
+"117","meloxicam 7.",21
+"118","dexketoprofen",20
+"119","enalapril / hydrochlorothiazide 12.",20
+"120","amlodipine / perindopril",19
+"121","meloxicam",19
+"122","mometasone 0. nasal spray",19
+"123","amlodipine / olmesartan",18
+"124","enalapril",18
+"125","ferrous sulfate",18
+"126","metoprolol 47.",18
+"127","propafenone hydrochloride",18
+"128","indomethacin rectal suppository",17
+"129","sulodexide 250 unt",17
+"130","amlodipine / indapamide 2. / perindopril",16
+"131","ascorbic acid /ml",16
+"132","betamethasone",16
+"133","budesonide 0./actuat / formoterol 0./actuat nasal spray",16
+"134","celecoxib",16
+"135","lisinopril",16
+"136","methimazole",16
+"137","aceclofenac",15
+"138","ciprofloxacin",15
+"139","fluticasone",14
+"140","lansoprazole",14
+"141","magnesium orotate",14
+"142","amiodarone",13
+"143","beclomethasone",13
+"144","ivabradine",13
+"145","oxybutynin chloride",13
+"146","trazodone hydrochloride",13
+"147","dihydroergotamine",12
+"148","ergotamine",12
+"149","hydrocortisone",12
+"150","thioctate",12
+"151","triflusal",12
+"152","albuterol 0./actuat inhalant",11
+"153","magnesium lactate / pyridoxine",11
+"154","methylprednisolone",11
+"155","racecadotril powder",11
+"156","timolol",11
+"157","amoxicillin / clavulanate",10
+"158","ibandronic acid",10
+"159","once-daily gabapentin",10
+"160","ramipril 2.",10
+"161","salmeterol",10
+"162","albendazole",9
+"163","captopril / hydrochlorothiazide",9
+"164","diclofenac",9
+"165","diclofenac sodium",9
+"166","docosahexaenoate",9
+"167","eicosapentaenoate",9
+"168","escitalopram",9
+"169","folic acid",9
+"170","hydrochlorothiazide / ramipril",9
+"171","indapamide",9
+"172","quinapril",9
+"173","racecadotril",9
+"174","sulfamethoxazole",9
+"175","tixocortol",9
+"176","trimethoprim",9
+"177","acyclovir",8
+"178","ampicillin /ml / sulbactam /ml injectable",8
+"179","azithromycin injectable",8
+"180","betaxolol",8
+"181","bromazepam",8
+"182","carbocysteine",8
+"183","cerebrolysin",8
+"184","chlorzoxazone",8
+"185","folate",8
+"186","latanoprost 0./ml ophthalmic suspension",8
+"187","lornoxicam",8
+"188","norfloxacin",8
+"189","ofloxacin",8
+"190","sulbactam",8
+"191","sumatriptan",8
+"192","tamsulosin",8
+"193","zofenopril",8
+"194","aminophylline",7
+"195","amoxicillin for suspension",7
+"196","calcipotriene",7
+"197","dexamethasone ophthalmic",7
+"198","dipyrone rectal suppository",7
+"199","donepezil",7
+"200","fluocinolone",7
+"201","gliclazide",7
+"202","piroxicam for suspension",7
+"203","pregabalin",7
+"204","propafenone",7
+"205","tramadol hydrochloride",7
+"206","triamcinolone",7
+"207","zolpidem",7
+"208","acetaminophen inhalation powder",6
+"209","acetylcysteine /ml",6
+"210","amitriptyline",6
+"211","brinzolamide",6
+"212","mometasone furoate /ml",6
+"213","risedronic acid 32.",6
+"214","rosuvastatin calcium",6
+"215","zopiclone 7.",6
+"216","alendronate",5
+"217","amoxicillin trihydrate",5
+"218","betamethasone /ml injectable",5
+"219","dextromethorphan granules",5
+"220","esomeprazole granules",5
+"221","fusafungin",5
+"222","heparin 100000 unt injectable",5
+"223","indapamide 1. / perindopril 3.",5
+"224","indapamide 1. / perindopril erbumine",5
+"225","modified 24 hr metformin hydrochloride",5
+"226","nimesulide",5
+"227","ranitidine",5
+"228","rivastigmine",5
+"229","tramadol",5
+"230","acetaminophen rectal suppository",4
+"231","albendazole chewable",4
+"232","betamethasone /ml / fusidate /ml",4
+"233","betamethasone 0./mg / calcitriol 0./mg",4
+"234","captopril",4
+"235","fosinopril",4
+"236","glimepiride",4
+"237","metoclopramide injectable",4
+"238","naproxen",4
+"239","promethazine",4
+"240","racecadotril suspension",4
+"241","ritonavir",4
+"242","sucralfate",4
+"243","tenoxicam",4
+"244","tiotropium 0. inhalation powder",4
+"245","ursodiol",4
+"246","verapamil",4
+"247","amlodipine / valsartan",3
+"248","azelate",3
+"249","bimatoprost 0./ml / timolol /ml ophthalmic",3
+"250","cephalexin chewable",3
+"251","clindamycin",3
+"252","cyclosporine",3
+"253","desloratadine 2.",3
+"254","diltiazem hydrochloride",3
+"255","diosmetin",3
+"256","drotaverin",3
+"257","etanercept",3
+"258","irbesartan",3
+"259","isosorbide",3
+"260","ketotifen",3
+"261","lactulose /ml",3
+"262","olodaterol",3
+"263","pentaerythritol tetranitrate",3
+"264","pitofenone",3
+"265","pyridoxine /ml injectable",3
+"266","repaglinide 0.",3
+"267","rivaroxaban",3
+"268","sulfamethoxazole / trimethoprim",3
+"269","tenoxicam injectable",3
+"270","vincamine",3
+"271","acyclovir /ml",2
+"272","alendronic acid / cholecalciferol 5600 unt",2
+"273","ambazone",2
+"274","amiodarone hydrochloride",2
+"275","amlodipine / indapamide 1. / perindopril 3.",2
+"276","bromazepam 1.",2
+"277","budesonide 0./actuat inhalation powder",2
+"278","carvedilol",2
+"279","cefaclor /ml suspension",2
+"280","cefuroxime granules for suspension",2
+"281","cephalexin",2
+"282","clobetasol",2
+"283","codeine",2
+"284","dexketoprofen /ml injectable",2
+"285","dichlorobenzyl alcohol",2
+"286","dimethindene",2
+"287","doxazosin",2
+"288","erythromycin",2
+"289","ginkgo biloba extract",2
+"290","ginkgo biloba leaf extract",2
+"291","hydrochlorothiazide 12. / telmisartan",2
+"292","imiquimod",2
+"293","iron",2
+"294","levamisole",2
+"295","levodopa",2
+"296","losartan",2
+"297","lovastatin",2
+"298","mesalamine",2
+"299","methotrexate injectable",2
+"300","nitroglycerin transdermal system",2
+"301","oseltamivir",2
+"302","oxcarbazepine",2
+"303","penicillin v 1000000 unt",2
+"304","piribedil",2
+"305","piroxicam",2
+"306","pramipexole 2.",2
+"307","prednisone",2
+"308","propranolol hydrochloride",2
+"309","simethicone",2
+"310","solifenacin succinate",2
+"311","tetrahydrozoline",2
+"312","tramadol /ml injectable",2
+"313","verapamil hydrochloride",2
+"314","vitamin b12",2
+"315","zofenopril 7.",2
+"316","1. meloxicam /ml injectable",1
+"317","acarbose",1
+"318","acetaminophen /ml suspension",1
+"319","acyclovir buccal",1
+"320","alfuzosin",1
+"321","amoxicillin /ml suspension",1
+"322","amoxicillin chewable",1
+"323","ampicillin",1
+"324","azathioprine",1
+"325","betamethasone /ml",1
+"326","cabergoline 0.",1
+"327","cetirizine /ml",1
+"328","ciclesonide",1
+"329","codeine phosphate",1
+"330","colchicine",1
+"331","diazepam /ml injectable",1
+"332","diclofenac potassium",1
+"333","diltiazem",1
+"334","doxycycline",1
+"335","enoxaparin sodium /ml injectable",1
+"336","famotidine",1
+"337","felodipine",1
+"338","finasteride",1
+"339","fusidate",1
+"340","fusidate 0./mg",1
+"341","glycopyrronium",1
+"342","hydrochlorothiazide 12. / losartan",1
+"343","ibandronate",1
+"344","indapamide 0. / perindopril",1
+"345","indapamide 0. / perindopril 1.",1
+"346","indomethacin",1
+"347","lactulose",1
+"348","lamotrigine",1
+"349","latanoprost",1
+"350","levothyroxine sodium 0.",1
+"351","loratadine",1
+"352","medazepam",1
+"353","mesalamine granules",1
+"354","metoprolol succinate",1
+"355","metronidazole",1
+"356","mirtazapine",1
+"357","montelukast chewable",1
+"358","moxonidine",1
+"359","netilmicin",1
+"360","nimesulide granules",1
+"361","nitrazepam",1
+"362","nitroglycerin",1
+"363","oxacillin",1
+"364","saccharomyces boulardii",1
+"365","solifenacin",1
+"366","sulfamethoxazole /ml / trimethoprim /ml suspension",1
+"367","tinidazole",1
+"368","tolperisone",1
+"369","topiramate",1
+"370","trandolapril / verapamil",1
+"371","travoprost",1
+"372","venlafaxine",1

@@ -1,0 +1,212 @@
+S.No,drug_name,count
+1,no matching concept,336
+2,pantoprazole,41
+3,furosemide,35
+4,levothyroxine 0.,35
+5,tamsulosin 0.,33
+6,aspirin,30
+7,lansoprazole,29
+8,metformin,27
+9,atorvastatin,20
+10,24 hr nitroglycerin 0./hr transdermal system,19
+11,terazosin,18
+12,amlodipine,17
+13,amoxicillin / clavulanate,17
+14,folic acid,17
+15,propafenone,17
+16,acenocoumarol,16
+17,bisoprolol 2.,16
+18,ramipril,15
+19,omeprazole,13
+20,allopurinol,12
+21,bisoprolol 1.,12
+22,bisoprolol,11
+23,acarbose,10
+24,esomeprazole,10
+25,lovastatin,10
+26,paroxetine,10
+27,0. epoetin alfa prefilled syringe,9
+28,dutasteride 0.,9
+29,rifaximin,9
+30,simvastatin,9
+31,cholecalciferol,8
+32,ferrous sulfate,8
+33,sodium chloride /ml,8
+34,venlafaxine 37.,8
+35,alprazolam 0.,7
+36,calcifediol 0.,7
+37,diclofenac,7
+38,digoxin 0.,7
+39,escitalopram,7
+40,ezetimibe,7
+41,lercanidipine,7
+42,lorazepam 2.,7
+43,methimazole,7
+44,olmesartan,7
+45,rivaroxaban,7
+46,rosuvastatin,7
+47,azithromycin,6
+48,beclomethasone 0./ml inhalant,6
+49,canrenone,6
+50,lormetazepam suspension,6
+51,timolol /ml ophthalmic,6
+53,carvedilol,5
+54,diltiazem,5
+55,hydrochlorothiazide / ramipril,5
+56,ibuprofen,5
+57,levothyroxine 0./ml,5
+58,nebivolol,5
+59,pregabalin,5
+60,silodosin,5
+61,ursodeoxycholate,5
+62,2. cholecalciferol,4
+63,3. ceftriaxone /ml injectable,4
+64,30 actuat fluticasone 0./actuat / vilanterol 0./actuat inhalation powder,4
+65,amiodarone,4
+66,apixaban 2.,4
+67,betamethasone,4
+68,bimatoprost 0./ml / timolol /ml prefilled applicator,4
+69,cefditoren pivoxil,4
+70,cefixime,4
+71,clonazepam 0.,4
+72,docosahexaenoate,4
+73,enalapril / lercanidipine,4
+74,escitalopram /ml,4
+75,ezetimibe / rosuvastatin,4
+76,furosemide / spironolactone,4
+77,letrozole 2.,4
+78,metformin / sitagliptin,4
+79,nimesulide,4
+80,rupatadine,4
+81,timolol /ml / travoprost 0./ml ophthalmic,4
+82,topiramate,4
+83,60 actuat fluticasone propionate 0./actuat / salmeterol 0./actuat dry powder inhaler,3
+84,albuterol inhalation,3
+85,amoxicillin,3
+86,bromazepam 2./ml,3
+87,ciprofloxacin,3
+88,deflazacort,3
+89,diclofenac sodium,3
+90,diflucortolone 0./mg / isoconazole 0./mg,3
+91,edoxaban,3
+92,etoricoxib,3
+93,flecainide,3
+94,indapamide 1.,3
+95,irbesartan,3
+96,lactulose /ml,3
+97,magnesium granules,3
+98,sertraline,3
+99,ticlopidine,3
+100,warfarin,3
+101,0. bimatoprost 0./ml ophthalmic,2
+102,0. tafluprost 0./ml / timolol /ml ophthalmic,2
+103,120 actuat budesonide 0./actuat / formoterol fumarate 0./actuat metered dose inhaler,2
+104,120 actuat fluticasone 0./actuat / salmeterol 0./actuat inhalant,2
+105,200 actuat albuterol 0./actuat inhalation suspension,2
+106,acetaminophen / codeine,2
+107,alendronate,2
+108,alfuzosin,2
+109,alginic acid suspension,2
+110,aluminum hydroxide / aspirin / magnesium hydroxide,2
+111,ambroxol 7./ml inhalant,2
+112,amlodipine / indapamide 2. / perindopril,2
+113,amlodipine / olmesartan,2
+114,aspirin powder for,2
+115,atenolol,2
+116,atenolol / chlorthalidone 12.,2
+117,bromelains,2
+118,calcifediol 0./ml,2
+119,candesartan,2
+120,carbidopa / levodopa,2
+121,cetirizine,2
+122,cetirizine /ml,2
+123,cinnarizine,2
+124,citalopram,2
+125,codeine / ibuprofen,2
+126,dabigatran etexilate,2
+127,dapagliflozin,2
+128,desloratadine,2
+129,dexibuprofen,2
+130,dihydrocodeine,2
+131,domperidone,2
+132,dorzolamide /ml ophthalmic,2
+133,doxazosin,2
+134,duloxetine,2
+135,enalapril maleate,2
+136,eperisone hydrochloride,2
+137,epoetin alfa prefilled syringe,2
+138,folic acid / vitamin b complex,2
+139,gliclazide,2
+140,hydrochlorothiazide / olmesartan,2
+141,hydrochlorothiazide 12. / lisinopril,2
+142,hydrochlorothiazide 12. / nebivolol,2
+143,hydrochlorothiazide 12. / olmesartan,2
+144,hydrochlorothiazide 12. / ramipril,2
+145,hydrochlorothiazide 12. / valsartan,2
+146,indapamide 2. / perindopril,2
+147,indomethacin,2
+148,itraconazole,2
+149,ketorolac /ml,2
+150,lactobacillus reuteri,2
+151,lactulose 0./ml,2
+152,levofloxacin,2
+153,levosulpiride,2
+154,lithium carbonate,2
+155,loperamide,2
+156,lorazepam,2
+157,magaldrate /ml,2
+158,metoclopramide,2
+159,mirtazapine,2
+160,mometasone 0./mg,2
+161,prednisone,2
+162,promazine,2
+163,ranolazine,2
+164,risedronate,2
+165,spironolactone,2
+166,tafluprost 0./ml ophthalmic,2
+167,timolol 0./mg ophthalmic,2
+168,tiotropium 0. inhalant powder,2
+169,tramadol,2
+170,troxerutin powder,2
+171,vortioxetine,2
+172,60 actuat fluticasone 0./actuat / salmeterol 0./actuat dry powder inhaler,1
+173,acetaminophen / ibuprofen,1
+174,acetaminophen / oxycodone,1
+175,acetaminophen / oxycodone hydrochloride,1
+176,almotriptan 12.,1
+177,alprazolam 0./ml,1
+178,amiloride / hydrochlorothiazide,1
+179,amlodipine / indapamide 1. / perindopril,1
+180,betahistine,1
+181,betamethasone /ml injectable,1
+182,canrenoate,1
+183,ceftizoxime /ml injectable,1
+184,chlortetracycline ophthalmic,1
+185,choline,1
+186,clarithromycin,1
+187,clobetasol 0./mg,1
+188,clonidine 2. medicated patch,1
+189,diazepam /ml,1
+190,diclofenac 0./mg spray,1
+191,fluconazole,1
+192,flunisolide inhalant,1
+193,fosfomycin granules,1
+194,haloperidol /ml,1
+195,hydrochlorothiazide,1
+196,leuprolide 11./ml prefilled syringe,1
+197,levocarnitine /ml injectable,1
+198,losartan,1
+199,methixene,1
+200,metoclopramide /ml prefilled syringe,1
+201,midodrine 2./ml injectable,1
+202,naloxone / oxycodone,1
+203,nitroglycerin transdermal system,1
+204,paromomycin,1
+205,pravastatin sodium,1
+206,prazepam,1
+207,progesterone vaginal suppository,1
+208,sotalol,1
+209,telmisartan,1
+210,tiotropium inhalant,1
+211,trazodone,1
+212,zolpidem,1

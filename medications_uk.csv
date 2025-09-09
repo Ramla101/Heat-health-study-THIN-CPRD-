@@ -1,0 +1,334 @@
+S.No,drug_name,count
+1,omeprazole,45
+2,lansoprazole,40
+3,atorvastatin,37
+4,simvastatin,37
+5,levothyroxine sodium 0.,35
+6,aspirin,31
+7,acetaminophen,23
+8,amlodipine,21
+9,clopidogrel,19
+10,furosemide,19
+11,gabapentin,18
+12,sertraline,18
+13,losartan potassium,17
+14,ramipril,16
+15,bisoprolol fumarate 2.,14
+16,amitriptyline hydrochloride,12
+17,albuterol 0./actuat inhalant powder,11
+18,bisoprolol fumarate 1.,11
+19,citrate / glucose / potassium chloride / sodium chloride powder,11
+20,alginic acid /ml / calcium carbonate /ml / sodium bicarbonate 26./ml suspension,10
+21,azithromycin,10
+22,bendroflumethiazide 2.,10
+23,desogestrel 0.,10
+24,isopropyl myristate /ml / mineral oil /ml,10
+25,pregabalin,10
+26,albuterol 0./actuat metered dose inhaler,9
+27,alendronic acid,9
+28,atenolol,9
+29,beclomethasone 0./actuat / formoterol 0./actuat inhalant powder,9
+30,beclomethasone 0./actuat inhalant powder,9
+31,bisoprolol fumarate,9
+32,calcium carbonate / cholecalciferol 400 unt chewable,9
+33,citalopram,9
+34,doxazosin,9
+35,fexofenadine hydrochloride,9
+36,lisinopril,9
+37,metformin hydrochloride,9
+38,quinine,9
+39,tamsulosin 0.,9
+40,beclomethasone 0./actuat nasal spray,8
+41,bicarbonate ion 0.017 mmol/ml / polyethylene glycol 3350 /ml / potassium 0.0054 mmol/ml / sodium 0.065 mmol/ml powder,8
+42,folic acid,8
+43,hydrochlorothiazide / losartan potassium,8
+44,loratadine,8
+45,naproxen,8
+46,ranitidine,8
+47,sennoside b 7.,8
+48,valproate,8
+49,acetaminophen / codeine phosphate,7
+50,cetirizine hydrochloride,7
+51,chlorpheniramine maleate,7
+52,digoxin 0.,7
+53,diltiazem,7
+54,finasteride,7
+55,fluoxetine,7
+56,nicorandil,7
+57,rivaroxaban,7
+58,allopurinol,6
+59,betahistine,6
+60,betamethasone 0./mg,6
+61,carbocysteine,6
+62,diazepam,6
+63,lauromacrogols 0./mg / urea 0./mg,6
+64,mirtazapine,6
+65,montelukast,6
+66,ramipril 2.,6
+67,rosuvastatin calcium,6
+68,solifenacin succinate,6
+69,baclofen,5
+70,benzalkonium /ml / chlorhexidine /ml / isopropyl myristate /ml / mineral oil /ml,5
+71,hydrocortisone 0./mg,5
+72,hydroxocobalamin /ml injectable,5
+73,isosorbide mononitrate,5
+74,mebeverine,5
+75,quetiapine,5
+76,warfarin sodium,5
+78,acetaminophen / codeine,4
+79,butylscopolamine,4
+80,candesartan cilexetil,4
+81,cephalexin,4
+82,cholecalciferol 800 unt,4
+83,escitalopram,4
+84,felodipine 2.,4
+85,ferrous fumarate,4
+86,ferrous gluconate,4
+87,indapamide 2.,4
+88,levetiracetam,4
+89,modified 24 hr metformin hydrochloride,4
+90,nitroglycerin 0./actuat spray,4
+91,perindopril erbumine,4
+92,prochlorperazine buccal,4
+93,propranolol hydrochloride,4
+94,sildenafil,4
+95,sumatriptan,4
+96,tiotropium 0. inhalation powder,4
+97,tramadol hydrochloride,4
+98,trospium chloride,4
+99,acetaminophen / dihydrocodeine bitartrate,3
+100,alfuzosin hydrochloride,3
+101,benserazide 12. / levodopa,3
+102,budesonide 0./actuat / formoterol 0./actuat inhalant powder,3
+103,calcium carbonate / cholecalciferol 200 unt,3
+104,dapagliflozin,3
+105,diclofenac 11./ml,3
+106,dihydrocodeine bitartrate,3
+107,eplerenone,3
+108,ethinyl estradiol 0. / levonorgestrel 0.,3
+109,floxacillin,3
+110,fluticasone 0./actuat / salmeterol 0./actuat inhalant powder,3
+111,fluticasone 0./actuat / vilanterol 0./actuat inhalant powder,3
+112,gliclazide,3
+113,hypromellose /ml ophthalmic,3
+114,ibuprofen,3
+115,irbesartan,3
+116,ketoconazole /ml medicated shampoo,3
+117,metoclopramide,3
+118,mineral oil 0./mg / petrolatum 0./mg / phenoxyethanol 0./mg / polawax polysorbate 0./mg,3
+119,morphine,3
+120,nifedipine,3
+121,pramipexole 0.,3
+122,prednisolone,3
+123,prucalopride,3
+124,spironolactone,3
+125,tamsulosin hydrochloride 0.,3
+126,trimethoprim,3
+127,venlafaxine,3
+128,zopiclone 7.,3
+129,24 hr rivastigmine 0./hr transdermal system,2
+130,albuterol 0./actuat inhalation powder,2
+131,amoxicillin,2
+132,apixaban,2
+133,beclomethasone 0./actuat inhalation powder,2
+134,bentonite /ml / calamine /ml / glycerin /ml / phenol /ml / sodium citrate 4./ml / zinc oxide /ml,2
+135,benzalkonium /ml medicated shampoo,2
+136,benzoyl peroxide 0./mg / clindamycin 0./mg,2
+137,bisoprolol fumarate 3.,2
+138,bisoprolol fumarate 7.,2
+139,buclizine,2
+140,buspirone hydrochloride,2
+141,calcium / cholecalciferol 400 unt chewable,2
+142,calcium carbonate / cholecalciferol 400 unt by thornton & ross,2
+143,clarithromycin,2
+144,clobetasone 0./mg,2
+145,clonazepam 0.,2
+146,codeine,2
+147,cromolyn sodium /ml ophthalmic,2
+148,cyclizine,2
+149,diphenhydramine hydrochloride,2
+150,doxycycline hyclate,2
+151,duloxetine,2
+152,estradiol 0. vaginal suppository,2
+153,fluticasone 0./actuat / formoterol 0./actuat inhalant powder,2
+154,fluticasone 0./actuat / umeclidinium 0./actuat / vilanterol 0./actuat inhalant powder,2
+155,hydrocortisone 0./mg / miconazole 0./mg,2
+156,ibuprofen 0./mg vaginal,2
+157,indapamide 1.,2
+158,ispaghula husk granules,2
+159,lactulose /ml,2
+160,leflunomide,2
+161,lercanidipine,2
+162,linagliptin,2
+163,lisinopril 2.,2
+164,meloxicam 7.,2
+165,memantine hydrochloride,2
+166,menthol 0./mg,2
+167,methyldopa,2
+168,mirabegron,2
+169,mometasone 0./actuat nasal spray,2
+170,morphine sulfate /ml,2
+171,mycophenolate mofetil,2
+172,nitrofurantoin,2
+173,nystatin suspension,2
+174,olodaterol 0./actuat / tiotropium 0./actuat inhalant,2
+175,oxycodone,2
+176,pantoprazole,2
+177,phenytoin sodium,2
+178,prochlorperazine,2
+179,ramipril 1.,2
+180,risedronate sodium,2
+181,risperidone 0.,2
+182,saxagliptin 2.,2
+183,tacrolimus,2
+184,tibolone 2.,2
+185,tiotropium 0. inhalant powder,2
+186,tolterodine tartrate,2
+187,topiramate,2
+188,trazodone hydrochloride,2
+189,umeclidinium 0./actuat inhalant powder,2
+190,venlafaxine 37.,2
+191,zopiclone 3.,2
+192,0. atropine /ml ophthalmic,1
+193,0. carboxymethylcellulose /ml ophthalmic,1
+194,0. dorzolamide /ml / timolol /ml ophthalmic,1
+195,"0. typhoid vi polysaccharide vaccine, s typhi ty2 strain 0./ml injectable",1
+196,2. diazepam /ml rectal,1
+197,acetaminophen /ml suspension,1
+198,acrivastine,1
+199,acyclovir,1
+200,adapalene 0./mg / benzoyl peroxide 0./mg,1
+201,alfacalcidol 0.,1
+202,alginic acid /ml / potassium bicarbonate /ml suspension,1
+203,aminophylline,1
+204,amiodarone hydrochloride,1
+205,amisulpride,1
+206,amylase 8000 unt / lipase 10000 unt / protease 600 unt,1
+207,antazoline /ml / xylometazoline 0./ml ophthalmic,1
+208,aripiprazole,1
+209,ascorbic acid / biotin 0. / calcium / chromium 0. / copper / ergocalciferol 400 unt / folic acid 0. / iodine 0. / iron / magnesium / manganese / ...,1
+210,atenolol / chlorthalidone 12.,1
+211,azathioprine,1
+212,beclomethasone 0./actuat / formoterol 0./actuat / glycopyrronium 0./actuat inhalant powder,1
+213,benserazide / levodopa,1
+214,benzalkonium 0./mg / chlorhexidine 0./mg / isopropyl myristate 0./mg / mineral oil 0./mg,1
+215,benzydamine 1./ml nasal spray,1
+216,betamethasone 0./mg rectal foam,1
+217,bismuth oxide 0./mg / peruvian balsam 0./mg / zinc oxide 0./mg by church & dwight,1
+218,buprenorphine 0./hr transdermal system,1
+219,calcitriol 0./mg,1
+220,calcium carbonate / cholecalciferol 400 unt,1
+221,calcium carbonate / cholecalciferol 880 unt chewable,1
+222,carbamazepine,1
+223,carbomer homopolymer type c 0./mg ophthalmic by bausch & lomb,1
+224,carvedilol,1
+225,chlorpheniramine,1
+226,chlorpheniramine maleate 0./ml,1
+227,chlorpromazine hydrochloride,1
+228,cholecalciferol 1000 unt,1
+229,cholecalciferol 20000 unt,1
+230,cholecalciferol 800 unt by thornton & ross,1
+231,ciprofloxacin,1
+232,clobetasol 0./mg,1
+233,clobetasone 0./mg / nystatin 100 unt/mg / oxytetracycline 0./mg,1
+234,clotrimazole 0./mg,1
+235,coal tar /ml / coconut oil /ml / salicylic acid /ml medicated shampoo,1
+236,coal tar /ml medicated shampoo,1
+237,crotamiton 0./mg by thornton & ross,1
+238,desmopressin 0. buccal film,1
+239,desmopressin acetate 0.,1
+240,diclofenac sodium 0./mg,1
+241,diethylamine salicylate 0./mg by thornton & ross,1
+242,docusate potassium,1
+243,dutasteride 0.,1
+244,empagliflozin,1
+245,enalapril maleate,1
+246,ethinyl estradiol 0. / gestodene 0.,1
+247,ethinyl estradiol 0. / norethindrone 0.,1
+248,felodipine,1
+249,ferrous sulfate,1
+250,fluorometholone /ml ophthalmic,1
+251,fluorouracil 0./mg,1
+252,fluticasone 0./actuat / salmeterol 0./actuat inhalation powder,1
+253,fluticasone 0./actuat inhalant powder,1
+254,fluticasone 0./actuat nasal spray,1
+255,fusidate 0./mg,1
+256,fusidate 0./mg / hydrocortisone 0./mg,1
+257,glucagon injectable,1
+258,glycerin 0./mg / magnesium sulfate 0./mg / phenol 0./mg paste,1
+259,goserelin 10. drug implant,1
+260,heparinoids 0./mg,1
+261,hepatitis a virus injectable suspension,1
+262,hydrocortisone /ml injectable,1
+263,hydrocortisone acetate 0./mg,1
+264,hydroxyzine hydrochloride,1
+265,ibuprofen 0./mg,1
+266,indacaterol 0. inhalant powder,1
+267,insulin glargine injectable,1
+268,"insulin isophane, human injectable suspension",1
+269,"insulin, aspart protamine, human / insulin, aspart, human injectable suspension",1
+270,ipratropium 0./actuat nasal spray,1
+271,isopropyl myristate /ml / mineral oil /ml by thornton & ross,1
+272,isosorbide,1
+273,ketoconazole 0./mg,1
+274,lacosamide,1
+275,lamotrigine,1
+276,lanolin 0./mg / paraffin 0./mg / petrolatum 0./mg,1
+277,latanoprost 0./ml ophthalmic,1
+278,letrozole 2.,1
+279,levocetirizine dihydrochloride,1
+280,lidocaine 0./mg transdermal system,1
+281,magnesium hydroxide /ml suspension,1
+282,mefenamic acid,1
+283,"meningococcal acwy vaccine, unspecified formulation",1
+284,meptazinol,1
+285,mesalamine granules,1
+286,metoclopramide /ml,1
+287,metronidazole,1
+288,metronidazole 0./mg,1
+289,montelukast chewable,1
+290,morphine /ml,1
+291,nafronyl,1
+292,nebivolol,1
+293,nefopam,1
+294,oxybutynin chloride,1
+295,oxybutynin chloride 2.,1
+296,paraffin 0./mg / petrolatum 0./mg,1
+297,paraffin 0./mg / petrolatum 0./mg by thornton & ross,1
+298,paroxetine hydrochloride,1
+299,peppermint oil,1
+300,petrolatum 0./mg,1
+301,piroxicam 0./mg vaginal,1
+302,pizotyline 0.,1
+303,pizotyline 1.,1
+304,polyvinyl alcohol /ml ophthalmic,1
+305,propantheline,1
+306,pyridostigmine bromide,1
+307,ranitidine /ml,1
+308,ranolazine,1
+309,rasagiline,1
+310,"sars-cov-2 (covid-19) vaccine, vector non-replicating, recombinant spike protein-chadox1, preservative free, 0. (non-us)",1
+311,silver sulfadiazine 0./mg,1
+312,silver sulfadiazine 0./mg by smith & nephew,1
+313,simvastatin by dexcel-pharma,1
+314,sitagliptin,1
+315,sodium chloride,1
+316,sodium citrate /ml rectal,1
+317,sulfasalazine,1
+318,tacrolimus 0.,1
+319,tadalafil,1
+320,theophylline,1
+321,thiamine,1
+322,tiotropium 0./actuat inhalant powder,1
+323,tizanidine,1
+324,tranexamic acid,1
+325,travoprost 0./ml ophthalmic,1
+326,"typhoid vaccine, unspecified formulation",1
+327,urea /ml,1
+328,urea /ml by thornton & ross,1
+329,ursodiol,1
+330,vardenafil,1
+331,verapamil,1
+332,vitamin b12 0.,1
+333,zonisamide,1
+334,{(ethinyl estradiol 0. / levonorgestrel 0. ) / (ethinyl estradiol 0. / levonorgestrel 0. ) / (ethinyl estradiol 0. / levonorgestrel 0. ) } pack,1

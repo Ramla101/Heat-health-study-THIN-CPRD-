@@ -1,0 +1,144 @@
+S.No,comorbidity_name,count
+1,Essential hypertension,15
+2,No matching concept,15
+3,Benign essential hypertension,12
+4,Pure hypercholesterolemia,11
+5,Diabetes mellitus,10
+6,Atrial fibrillation,9
+7,Depressive disorder,8
+8,Gastroesophageal reflux disease,8
+9,Vitamin D deficiency,8
+10,Acquired hypothyroidism,7
+11,Anxiety state,7
+12,Anemia in chronic kidney disease,5
+13,Glaucoma,5
+14,Inflammatory disorder of digestive tract,5
+15,Onychomycosis due to dermatophyte,5
+16,Benign prostatic hyperplasia with outflow obstruction,4
+17,Disorder of skin and/or subcutaneous tissue,4
+18,Headache,4
+19,Osteoarthritis,4
+20,Premature beats,4
+21,Venous varices,4
+22,Acute bronchitis,3
+23,Allergic disposition,3
+24,Allergic rhinitis,3
+25,Calculus of bile duct with obstruction,3
+26,Chronic ischemic heart disease,3
+27,Constipation,3
+28,Diverticular disease of colon,3
+29,Infective pneumonia,3
+30,"Localized, primary osteoarthritis",3
+31,Mixed hyperlipidemia,3
+32,Osteoarthritis of knee,3
+33,Acute cystitis,2
+34,Cervical spondylosis without myelopathy,2
+35,Chronic bronchitis,2
+36,Chronic kidney disease,2
+37,Cough,2
+38,Cramp in limb,2
+39,Deviated nasal septum,2
+40,Diarrhea,2
+41,Disorder of shoulder,2
+42,Dysthymia,2
+43,Gout,2
+44,Hashimoto thyroiditis,2
+45,Hypertensive heart disease,2
+46,Inflammatory disorder,2
+47,Insomnia,2
+48,Low back pain,2
+49,Low blood pressure,2
+50,Mechanical complication of vascular device,2
+51,Open-angle glaucoma,2
+52,Osteoporosis,2
+53,Panic disorder without agoraphobia,2
+54,Peripheral vascular disease,2
+55,Peritonsillar abscess,2
+56,Personality disorder,2
+57,Pityriasis versicolor,2
+58,Plantar nerve lesion,2
+59,Primary malignant neoplasm of mandible,2
+60,Pruritic rash,2
+61,Severe acute respiratory syndrome,2
+62,Shoulder joint pain,2
+63,Sinus node dysfunction,2
+64,Thyroiditis,2
+65,Thyrotoxicosis without goiter or other cause,2
+66,Tinea corporis,2
+67,Type 2 diabetes mellitus without complication,2
+68,Urinary tract infectious disease,2
+69,Viral hepatitis,2
+70,Acute gastritis,1
+71,Acute pyelonephritis without medullary necrosis,1
+72,Alopecia,1
+73,Anemia,1
+74,Angina pectoris,1
+75,Asthma,1
+76,Atrophic gastritis,1
+77,Benign hypertensive heart disease without congestive heart failure,1
+78,Blood chemistry abnormal,1
+79,Breathing painful,1
+80,Carpal tunnel syndrome,1
+81,Cerebral infarction,1
+82,Cerebrovascular disease,1
+83,Cervical spondylosis with myelopathy,1
+84,Chronic frontal sinusitis,1
+85,Chronic pancreatitis,1
+86,Chronic thyroiditis,1
+87,Closed fracture of patella,1
+88,"Colitis, enteritis and gastroenteritis presumed infectious",1
+89,Congestive heart failure,1
+90,Coronary atherosclerosis,1
+91,Cystitis,1
+92,Degenerative joint disease involving multiple joints,1
+93,Disorder of body wall,1
+94,Disorder of brain,1
+95,Disorder of bursa of shoulder region,1
+96,Disorder of carotid artery,1
+97,Disorder of sleep-wake cycle,1
+98,Emphysematous bronchitis,1
+99,Gastro-esophageal reflux disease with esophagitis,1
+100,Hearing problem,1
+101,Heart failure,1
+102,Heart murmur,1
+103,Herpes zoster without complication,1
+104,Hyperlipidemia,1
+105,Hypokalemia,1
+106,Idiopathic scoliosis AND/OR kyphoscoliosis,1
+107,Incontinence without sensory awareness,1
+108,Inflammatory disorder of male genital organ,1
+109,Inguinal hernia,1
+110,Injury of free lower limb,1
+111,Intestinal infection due to E. coli,1
+112,Kyphoscoliosis and scoliosis,1
+113,Labyrinthine disorder,1
+114,Left lower quadrant pain,1
+115,Leukocytosis,1
+116,Localization-related epilepsy,1
+117,Malnutrition of mild degree (Gomez: 75 percent to less than 90 percent of standard weight),1
+118,Mitral valve disorder,1
+119,Mucous polyp of cervix,1
+120,Nausea and vomiting,1
+121,Neck pain,1
+122,Neoplasm of uncertain behavior of breast,1
+123,Non-neoplastic nevus,1
+124,Ocular hypertension,1
+125,Otitis media,1
+126,Peripheral vertigo,1
+127,Precordial pain,1
+128,Primary malignant neoplasm of upper outer quadrant of female breast,1
+129,Proteinuria,1
+130,Raynaud's phenomenon,1
+131,"Recurrent major depressive episodes, moderate",1
+132,Secondary hypertension,1
+133,Senile osteoporosis,1
+134,Sensory disorder of smell and/or taste,1
+135,Sepsis,1
+136,Somatoform autonomic dysfunction - gastrointestinal tract,1
+137,Spastic hemiplegia of dominant side,1
+138,Spinal stenosis of lumbar region,1
+139,Stress,1
+140,Tobacco dependence syndrome,1
+141,Urinary incontinence,1
+142,Uterine prolapse without vaginal wall prolapse,1
+143,Venous thrombosis,1

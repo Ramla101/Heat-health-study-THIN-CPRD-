@@ -1,0 +1,202 @@
+S.No,comorbidity_name,count
+1,Depressive disorder,51
+2,No matching concept,49
+3,Disorders of initiating and maintaining sleep,47
+4,Essential hypertension,32
+5,Pure hypercholesterolemia,28
+6,Anxiety disorder,27
+7,Pain,26
+8,Disorder of intestine,24
+9,Nausea and vomiting,24
+10,Viral disease,20
+11,Allergic rhinitis,19
+12,Acute pharyngitis,18
+13,Sunburn of first degree,18
+14,Common cold,17
+15,Asthma,16
+16,Gastroesophageal reflux disease,16
+17,Gastritis,15
+18,Low back pain,13
+19,Urticaria,13
+20,Esophagitis,11
+21,Intestinal infectious disease,10
+22,Type 2 diabetes mellitus without complication,10
+23,Acute tonsillitis,8
+24,Headache,8
+25,Migraine,8
+26,Acute sinusitis,6
+27,Diarrhea,6
+28,Enthesopathy,6
+29,Hypothyroidism,6
+30,Malaise and fatigue,6
+31,Vitamin B deficiency,6
+32,Cough,5
+33,Herpes simplex,5
+34,Muscle contracture,5
+35,Solar erythema,5
+36,Acute atopic conjunctivitis,4
+37,Atrial arrhythmia,4
+38,Complication of procedure,4
+39,Erysipelas,4
+40,Inflammatory dermatosis,4
+41,Influenza,4
+42,Itching of skin,4
+43,Perimenopausal disorder,4
+44,Sleep disorder,4
+45,Abdominal pain,3
+46,Acute bronchitis,3
+47,Acute conjunctivitis,3
+48,Acute laryngitis,3
+49,Acute upper respiratory infection,3
+50,Chronic obstructive lung disease,3
+51,Diaphragmatic hernia,3
+52,Disorder of soft tissue,3
+53,Dizziness and giddiness,3
+54,Epilepsy,3
+55,Feeling nervous,3
+56,Hypertension secondary to endocrine disorder,3
+57,Lateral epicondylitis,3
+58,Menopausal syndrome,3
+59,Non-scarring alopecia,3
+60,Osteoporosis,3
+61,Pain in limb,3
+62,Polyneuropathy,3
+63,Severe major depression with psychotic features,3
+64,Synovitis and tenosynovitis,3
+65,Acquired absence of organ,2
+66,Acute suppurative otitis media,2
+67,Alcohol dependence,2
+68,Allergic asthma,2
+69,Allergic rhinitis due to pollen,2
+70,Benign paroxysmal positional vertigo,2
+71,Bronchopneumonia,2
+72,COVID-19,2
+73,Cardiac arrhythmia,2
+74,Cerebral palsy,2
+75,Contact dermatitis,2
+76,Cystitis,2
+77,Diabetes mellitus without complication,2
+78,Disorder due to infection,2
+79,Disorder of digestive system,2
+80,Disorder of nasal cavity,2
+81,Heart failure,2
+82,Infectious mononucleosis,2
+83,Intervertebral disc prolapse,2
+84,Iron deficiency,2
+85,Ischemic stroke,2
+86,Localized edema,2
+87,Lymphedema,2
+88,Multiple sclerosis,2
+89,Orthostatic hypotension,2
+90,Otitis externa,2
+91,Peripheral venous insufficiency,2
+92,Polyarthropathy,2
+93,Spasm,2
+94,Superficial injury,2
+95,Thrombophlebitis,2
+96,Transient cerebral ischemia,2
+97,Urinary tract infectious disease,2
+98,Vasomotor rhinitis,2
+99,Acne,1
+100,Acquired absence of all teeth,1
+101,Acute pansinusitis,1
+102,Acute tracheitis,1
+103,Adhesive capsulitis of shoulder,1
+104,Adverse reaction,1
+105,Alcohol withdrawal syndrome,1
+106,Anemia,1
+107,Anorectal disorder,1
+108,Backache,1
+109,Calcific tendinitis of shoulder,1
+110,Candida infection of genital region,1
+111,Candidiasis of mouth,1
+112,Candidiasis of urogenital site,1
+113,Carpal tunnel syndrome,1
+114,Cerebrovascular accident,1
+115,Chronic prostatitis,1
+116,Congenital hypothyroidism without goiter,1
+117,Croup,1
+118,Dermatophytosis,1
+119,Disorder of bronchus,1
+120,Disorder of lip,1
+121,Disorder of lipid metabolism,1
+122,Disorder of lower gastrointestinal tract,1
+123,Disorder of purine and pyrimidine metabolism,1
+124,Disorder of skin AND/OR subcutaneous tissue of head,1
+125,Disorder of skin and/or subcutaneous tissue,1
+126,Disorder of teeth AND/OR supporting structures,1
+127,Disorder of upper gastrointestinal tract,1
+128,Disorder of vagus nerve,1
+129,Disorders of attention and motor control,1
+130,Disorientated,1
+131,Erysipeloid,1
+132,Essential tremor,1
+133,Fever,1
+134,Finding related to pregnancy,1
+135,Fracture of proximal end of radius,1
+136,Generalized anxiety disorder,1
+137,Gout,1
+138,Heartburn,1
+139,Hyperlipidemia,1
+140,Hyperplasia of prostate,1
+141,Hypertension stage 1,1
+142,Hypertrophic cardiomyopathy,1
+143,Hypochondriasis,1
+144,Impetigo,1
+145,Infestation by Sarcoptes scabiei var hominis,1
+146,Inflammatory disorder of digestive tract,1
+147,Injury of muscle and tendon at hip and thigh level,1
+148,Intercostal neuropathy,1
+149,Intertrigo,1
+150,Intrinsic asthma,1
+151,Irritable bowel syndrome,1
+152,Joint pain,1
+153,Keratitis,1
+154,Localized infection of skin AND/OR subcutaneous tissue,1
+155,Loss of consciousness,1
+156,Lumbago with sciatica,1
+157,Lymphadenitis,1
+158,Lymphadenopathy,1
+159,Mixed hyperlipidemia,1
+160,Molluscum contagiosum infection,1
+161,Movement disorder,1
+162,Multiple cranial nerve palsy,1
+163,Neurosis,1
+164,Nonspecific mesenteric adenitis,1
+165,Nonulcer dyspepsia,1
+166,Otitis media,1
+167,Panic disorder,1
+168,Parkinson's disease,1
+169,Pediculosis and phthirus infections,1
+170,Peptic ulcer,1
+171,Physical AND emotional exhaustion state,1
+172,Post-traumatic wound infection,1
+173,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",1
+174,Primary malignant neoplasm of breast,1
+175,Psychostimulant withdrawal,1
+176,Pure hyperglyceridemia,1
+177,Recurrent aphthous stomatitis,1
+178,Relationship problems,1
+179,Respiratory condition due to chemical fumes AND/OR vapors,1
+180,Rhinitis,1
+181,Scar conditions and fibrosis of skin,1
+182,Sciatica,1
+183,Sequela of cerebrovascular accident,1
+184,Sideroblastic anemia,1
+185,Simple phobia,1
+186,Spondylosis,1
+187,Streptococcal tonsillitis,1
+188,Sunburn of third degree,1
+189,Supraventricular tachycardia,1
+190,Systemic inflammatory response syndrome,1
+191,Tension-type headache,1
+192,Thalassemia,1
+193,Tinea pedis,1
+194,Tinnitus,1
+195,Toxic effect of tobacco and nicotine,1
+196,Traumatic or non-traumatic injury,1
+197,Traveler's diarrhea,1
+198,Varicella,1
+199,Varicose veins of lower extremity,1
+200,Vascular headache,1
+201,Vitamin D deficiency,1

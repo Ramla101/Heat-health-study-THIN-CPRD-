@@ -1,0 +1,391 @@
+S.No,drug_name,count
+1,no matching concept,120
+2,domperidone by johnson & johnson,75
+3,ibuprofen,58
+4,acetaminophen,53
+5,escitalopram,42
+6,levothyroxine 0.,40
+7,omeprazole,40
+8,pantoprazole,38
+9,alprazolam 0.,37
+10,domperidone,37
+11,trazodone,34
+12,zolpidem,30
+13,aspirin,29
+14,bisoprolol,29
+15,pravastatin,29
+16,quetiapine,29
+17,lormetazepam,28
+18,betamethasone /ml injectable suspension,27
+19,cetirizine,27
+21,mometasone 0./mg,23
+22,desloratadine,21
+23,metformin,21
+24,zopiclone 7.,20
+25,simvastatin,19
+26,atorvastatin,18
+27,amlodipine,17
+28,diclofenac,17
+29,desogestrel 0. / ethinyl estradiol 0.,15
+30,domperidone /ml suspension by johnson & johnson,15
+31,metoclopramide,15
+32,140 actuat mometasone 0./actuat nasal spray,14
+33,bilastine,14
+34,bisoprolol 2.,14
+35,levocetirizine,14
+36,200 actuat fenoterol 0./actuat / ipratropium 0./actuat inhalant,13
+37,gliclazide,13
+38,200 actuat albuterol 0./actuat inhalant,12
+39,paroxetine,12
+40,120 actuat fluticasone 0./actuat nasal spray,11
+41,cholecalciferol,11
+42,diazepam,11
+43,esomeprazole,11
+44,flupenthixol 0. / melitracen,11
+45,indapamide 2. / perindopril,11
+46,saccharomyces boulardii,11
+47,amoxicillin / clavulanate,10
+48,framycetin / naphazoline 0./ml / prednisolone 2./ml nasal spray,10
+49,lisinopril,10
+50,montelukast,10
+51,spironolactone,10
+52,duloxetine,9
+53,ethinyl estradiol 0. / gestodene 0.,9
+54,ethinyl estradiol 0. / levonorgestrel 0.,9
+55,methylphenidate,9
+56,mirtazapine,9
+57,reboxetine,9
+58,200 actuat beclomethasone 0./actuat inhalant,8
+59,amitriptyline,8
+60,butylscopolamine,8
+61,lorazepam,8
+62,1 hr fentanyl 0./hr transdermal system,7
+63,acetaminophen / caffeine,7
+64,acetaminophen / tramadol 37.,7
+65,acetaminophen granules,7
+66,amlodipine / perindopril,7
+67,amoxicillin /ml suspension,7
+68,clobetasol 0./mg,7
+69,drospirenone / ethinyl estradiol 0.,7
+70,etilefrine,7
+71,fluoxetine,7
+72,indapamide 2.,7
+73,loperamide by johnson & johnson,7
+74,methylprednisolone 0./mg,7
+75,propranolol,7
+76,ranitidine,7
+77,rivaroxaban,7
+78,venlafaxine,7
+79,acetaminophen / caffeine for suspension,6
+80,acetaminophen / pseudoephedrine by johnson & johnson,6
+81,allopurinol,6
+82,fluconazole,6
+83,levocabastine 0./ml ophthalmic suspension by johnson & johnson,6
+84,losartan,6
+85,methylprednisolone,6
+86,perindopril,6
+87,ramipril,6
+88,rosuvastatin,6
+89,sulfadiazine 0./mg,6
+90,tramadol,6
+91,120 actuat beclomethasone 0./actuat / formoterol 0./actuat inhalant powder,5
+92,30 actuat fluticasone 0./actuat / vilanterol 0./actuat inhalant powder,5
+93,acyclovir,5
+94,amoxicillin,5
+95,baclofen,5
+96,betamethasone 0./mg,5
+97,bromazepam,5
+98,calamine 0./mg / diphenhydramine 0./mg suspension,5
+99,cyanocobalamin co57 0. / folic acid 0. / pyridoxine,5
+100,ethylmorphine,5
+101,furosemide,5
+102,hydroxyzine,5
+103,methylprednisolone /ml injectable suspension,5
+104,miconazole 0./mg vaginal,5
+105,octylonium,5
+106,passiflora incarnata extract,5
+107,rupatadine,5
+108,{11 (estradiol / norgestrel 0. ) / 10 (estradiol ) } pack,5
+109,120 actuat formoterol 0./actuat inhalant powder,4
+110,2. albuterol /ml / ipratropium 0./ml inhalant,4
+111,acetaminophen / codeine,4
+112,acetaminophen / codeine for suspension,4
+113,apixaban,4
+114,betamethasone 0./mg / fusidate 0./mg,4
+115,carbamazepine,4
+116,celecoxib,4
+117,clonazepam,4
+118,cyanocobalamin co57 0. / pyridoxine / riboflavin / thiamine,4
+119,desloratadine 0./ml,4
+120,dothiepin,4
+121,gabapentin,4
+122,hydrocortisone 0./mg,4
+123,lacosamide,4
+124,levetiracetam,4
+125,moxonidine 0.,4
+126,naproxen,4
+127,nebivolol,4
+128,piracetam,4
+129,povidone-iodine /ml mouthwash,4
+130,risperidone,4
+131,sertraline,4
+132,zoledronic acid 0./ml,4
+133,0. dulaglutide /ml injectable,3
+134,0. nadroparin injectable,3
+135,15 actuat flurbiprofen 8./actuat mucosal spray,3
+136,24 hr ethinyl estradiol 0./hr / etonogestrel 0./hr vaginal delivery system,3
+137,aceclofenac,3
+138,acenocoumarol,3
+139,acetaminophen / aspirin / caffeine,3
+140,acetaminophen / caffeine / codeine,3
+141,acetaminophen suspension,3
+142,acetylcysteine granules for,3
+143,alizapride,3
+144,alprazolam,3
+145,amoxicillin / clavulanate 62.,3
+146,aripiprazole,3
+147,buprenorphine / naloxone 0. sublingual,3
+148,bupropion,3
+149,carbidopa / entacapone / levodopa,3
+150,cetirizine /ml,3
+151,chlormadinone / ethinyl estradiol 0.,3
+152,clonidine 0.,3
+153,clopidogrel,3
+154,clotiazepam,3
+155,codeine 0./ml by johnson & johnson,3
+156,cyanocobalamin co57 0./ml / pyridoxine 33./ml / thiamine 33./ml intramuscular,3
+157,denosumab /ml injectable,3
+158,dienogest / ethinyl estradiol 0.,3
+159,dihydrocodeine,3
+160,diosmin,3
+161,diphenhydramine 0./mg suspension,3
+162,dipyrone /ml,3
+163,ebastine,3
+164,ezetimibe,3
+165,felodipine / ramipril,3
+166,ferrous sulfate,3
+167,flurazepam 27.,3
+168,folic acid,3
+169,"hepatitis a vaccine, inactivated injectable suspension",3
+170,hydrocortisone 0./mg suspension,3
+171,lidocaine 0./mg / prilocaine 0./mg,3
+172,mometasone,3
+173,nafronyl,3
+174,oxycodone,3
+175,primidone,3
+176,"sodium phosphate, dibasic /ml / sodium phosphate, monobasic /ml rectal",3
+177,sulfasalazine,3
+178,sulpiride,3
+179,tamoxifen,3
+180,valeriana officinalis whole extract,3
+181,{24 (drospirenone / ethinyl estradiol 0. ) / 4 (inert ingredients ) } pack,3
+182,0. meningococcal group b vaccine 0./ml injectable suspension,2
+183,120 actuat budesonide 0./actuat inhalant powder,2
+184,120 actuat fluticasone 0./actuat / salmeterol 0./actuat inhalant,2
+185,200 actuat budesonide 0./actuat inhalant powder,2
+186,24 hr nicotine 0./hr transdermal system,2
+187,56 actuat estradiol 1./actuat spray,2
+188,60 actuat fluticasone 0./actuat / salmeterol 0./actuat inhalant powder,2
+189,60 actuat fluticasone 0./actuat inhalant powder,2
+190,a/hong kong/4801/2014 (h3n2) - like virus,2
+191,acetaminophen / aspirin / caffeine by johnson & johnson,2
+192,acetaminophen / aspirin / caffeine for suspension,2
+193,acetaminophen / codeine phosphate effervescent,2
+194,acetaminophen /ml,2
+195,alendronate,2
+196,amiodarone,2
+197,amisulpride,2
+198,amlodipine / hydrochlorothiazide / olmesartan,2
+199,"antigens surface of virus influenza, strain a / switzerland / 9715293/2013 h3n2 - analogue strain a / switzerland / 9715293/2013, nib-88",2
+200,"antigens surface of virus influenza, strain b / brisbane / 9/2014 wild type",2
+201,aspirin / caffeine for suspension,2
+202,aspirin powder for,2
+203,bacitracin / neomycin /ml suspension,2
+204,benzoxonium / lidocaine chewable,2
+205,bisoprolol / hydrochlorothiazide,2
+206,bisoprolol / hydrochlorothiazide 12.,2
+207,bisoprolol / perindopril,2
+208,budesonide 0./ml inhalation,2
+209,cefuroxime,2
+210,ciprofloxacin,2
+211,clindamycin,2
+212,dextromethorphan /ml,2
+213,dextromethorphan /ml by johnson & johnson,2
+214,dextromethorphan 1./ml,2
+215,diclofenac rectal suppository,2
+216,dipyrone,2
+217,enalapril / lercanidipine,2
+218,erdosteine,2
+219,estradiol 0./mg,2
+220,ethinyl estradiol,2
+221,etofenamate 0./mg,2
+222,fenofibrate,2
+223,formoterol 0. inhalant powder,2
+224,fosfomycin granules for,2
+225,fusafungin,2
+226,glatiramer /ml injectable,2
+227,hydrochlorothiazide / olmesartan,2
+228,ibuprofen /ml suspension,2
+229,ibuprofen granules for,2
+230,influenza a virus (h1n1) antigen,2
+231,influenza a virus (h3n2) antigen,2
+232,"influenza a virus vaccine, a-texas-50-2012 (h3n2)-like virus",2
+233,"influenza a virus vaccine, a-victoria-361-2011 (h3n2)-like virus",2
+234,influenza a-california-7-2009-(h1n1)v-like virus vaccine,2
+235,influenza b virus antigen,2
+236,influenza b virus vaccine b/brisbane/60/2008 antigen,2
+237,"influenza b virus vaccine, b-massachusetts-2-2012-like virus",2
+238,"influenza b virus vaccine, b-wisconsin-1-2010-like virus",2
+239,"influenza virus fragmented, inactivated, strain a / switzerland / 9715293/2013 h3n2 - analogue strain a / south australia / 55/2014 ivr-175",2
+240,"influenza virus fragmented, inactivated, strain a / switzerland / 9715293/2013 h3n2 - analogue strain a / switzerland / 9715293/2013, nib-88",2
+241,"influenza virus fragmented, inactivated, strain b / phuket / 3073/2013",2
+242,"influenza virus surface antigen, inactivated, strain a / switzerland / 9715293/2013 h3n2 - analogue strain a / south australia / 55/2014 type wild",2
+243,"influenza virus surface antigen, inactivated, strain b / phuket / 3073/2013 & ndash; analogue strain b / utah / 9/2014, wild type",2
+244,"influenza virus surface antigen, strain a / victoria / 361/2011 h3n2 - derived strain used ivr-165",2
+245,"influenza virus surface antigens, strain a / switzerland / 9715293/2013 h3n2 - analogue strain nib-88",2
+246,"influenza virus vaccine, inactivated a-victoria-210-2009 x-187 (h3n2) (a-perth-16-2009) strain",2
+247,lamotrigine,2
+248,levothyroxine,2
+249,levothyroxine sodium 0.,2
+250,lidocaine 2./ml / magnesium hydroxide /ml / magnesium trisilicate /ml suspension,2
+251,loperamide,2
+252,lorazepam 2.,2
+253,melatonin,2
+254,meloxicam,2
+255,mestranol,2
+256,metformin / sitagliptin,2
+257,metoclopramide /ml,2
+258,miconazole 0./mg by johnson & johnson,2
+259,minocycline,2
+260,nystatin suspension,2
+261,oxybutynin,2
+262,oxymetazoline 0./ml nasal spray,2
+263,penicillin v 1000000 unt,2
+264,piracetam /ml,2
+265,polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride powder for,2
+266,pranoprofen /ml ophthalmic,2
+267,prothipendyl,2
+268,quinapril,2
+269,ranitidine for suspension,2
+270,repaglinide 0.,2
+271,sotalol,2
+272,sumatriptan,2
+273,vitamin d,2
+274,warfarin,2
+275,0. salmonella typhi inactivated antigen 0./ml injectable,1
+276,120 actuat fluticasone 0./actuat inhalant,1
+277,150 actuat fluticasone 0./actuat nasal spray,1
+278,250 actuat nitroglycerin 0./actuat mucosal spray,1
+279,80. clarithromycin /ml suspension,1
+280,acetaminophen / ascorbic acid / aspirin for suspension,1
+281,acetaminophen /ml suspension,1
+282,acetaminophen by johnson & johnson,1
+283,acetaminophen effervescent,1
+284,acetylcysteine for suspension,1
+285,amcinonide 0./mg,1
+286,amlodipine / hydrochlorothiazide 12. / olmesartan,1
+287,amlodipine / olmesartan,1
+288,amlodipine / valsartan,1
+289,amoxicillin / clavulanate suspension,1
+290,amoxicillin /ml / clavulanate 12./ml suspension,1
+291,amylmetacresol 2./ml / dichlorobenzyl alcohol 4./ml / lidocaine /ml mucosal spray,1
+292,atenolol,1
+293,atorvastatin / ezetimibe,1
+294,azithromycin,1
+295,benserazide / levodopa,1
+296,betahistine,1
+297,betamethasone,1
+298,betamethasone 0./mg / calcipotriene 0./mg,1
+299,bisoprolol / hydrochlorothiazide 6.,1
+300,black cohosh extract 6.,1
+301,bumetanide,1
+302,calamine 0./mg / diphenhydramine 0./mg,1
+303,calcipotriene,1
+304,carbocysteine /ml,1
+305,carvedilol,1
+306,cefadroxil,1
+307,chloramphenicol,1
+308,chloramphenicol /ml / dexamethasone /ml ophthalmic,1
+309,chlorhexidine / lidocaine lozenge,1
+310,chlorhexidine /ml / lidocaine 0./ml mucosal spray,1
+311,chlorhexidine /ml mucosal spray,1
+312,cholestyramine resin suspension,1
+313,citalopram,1
+314,clarithromycin,1
+315,clobetasol 0./mg medicated shampoo,1
+316,cloperastine,1
+317,codeine,1
+318,codeine 0./ml / guaifenesin 6./ml,1
+319,cyclophosphamide,1
+320,cyproterone / ethinyl estradiol 0.,1
+321,dexamethasone /ml / neomycin / polymyxin b otic,1
+322,dexamethasone 0./mg ophthalmic,1
+323,dextromethorphan /ml / guaifenesin /ml,1
+324,diazepam /ml injectable,1
+325,diclofenac 0./mg,1
+326,diclofenac sodium,1
+327,dihydrocodeine 2./ml,1
+328,disopyramide,1
+329,disulfiram,1
+330,donepezil,1
+331,doxycycline,1
+332,drospirenone,1
+333,edoxaban,1
+334,eprosartan / hydrochlorothiazide 12.,1
+335,escin,1
+336,etoricoxib,1
+337,ezetimibe / simvastatin,1
+338,ferrous sulfate / sodium ascorbate,1
+339,floxacillin,1
+340,flurbiprofen 8. lozenge,1
+341,fluticasone 0./mg,1
+342,fosfomycin,1
+343,framycetin / naphazoline 0./ml nasal spray,1
+344,framycetin nasal,1
+345,gelatin,1
+346,glycopyrronium 0. / indacaterol 0. inhalant powder,1
+347,heparin 0.175 unt/mg / zinc sulfate 0./mg,1
+348,hydrocortisone 0./mg / oxytetracycline 0./mg / polymyxin b 11.4 unt/mg suspension,1
+349,ibuprofen 0./mg,1
+350,ketoprofen 0./mg,1
+351,lactobacillus delbrueckii,1
+352,lercanidipine,1
+353,levonorgestrel,1
+354,lidocaine / tyrothricin lozenge,1
+355,loratadine / pseudoephedrine,1
+356,medroxyprogesterone /ml,1
+357,mepirodipine,1
+358,methotrimeprazine,1
+359,methylprednisolone /ml injectable,1
+360,metoprolol,1
+361,miconazole 0./mg,1
+362,molsidomine,1
+363,nabumetone,1
+364,niacinamide,1
+365,nicotine chewing gum by johnson & johnson,1
+366,olanzapine,1
+367,oxygen,1
+368,pioglitazone,1
+369,piroxicam,1
+370,povidone-iodine,1
+371,pregabalin,1
+372,progesterone,1
+373,prucalopride succinate,1
+374,racecadotril,1
+375,rheum palmatum whole extract 4./ml / salicylic acid /ml,1
+376,saccharomyces boulardii suspension,1
+377,sedum roseum root extract,1
+378,sitagliptin,1
+379,terbinafine 0./mg,1
+380,tibolone,1
+381,tibolone 2.,1
+382,tobramycin /ml ophthalmic,1
+383,tobramycin 0./mg ophthalmic,1
+384,triazolam 0.,1
+385,valsartan,1
+386,vitamin b12,1
+387,xylometazoline /ml nasal spray,1
+388,zolmitriptan,1
+389,zolmitriptan 2.,1
+390,{1 ( leucine /ml / lysine /ml / magnesium aspartate /ml / phenylalanine 2./ml / valine /ml ) / 1 ( sodium ascorbate /ml ) } pack,1
+391,{1 (ascorbic acid granules for ) / 1 (leucine / lysine / magnesium aspartate / phenylalanine / valine granules for ) } pack,1

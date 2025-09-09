@@ -1,0 +1,717 @@
+S.No,comorbidity_name,count
+1,Essential hypertension,2572
+2,Chronic ischemic heart disease,873
+3,No matching concept,848
+4,Spondylosis,615
+5,Chronic gastritis,479
+6,Hyperlipidemia,478
+7,Mixed hyperlipidemia,465
+8,Pure hypercholesterolemia,443
+9,Osteoporosis,441
+10,Gastritis,401
+11,Acute tonsillitis,377
+12,Disorder of lipid metabolism,344
+13,Atrial arrhythmia,324
+14,Chronic pharyngitis,322
+15,Iron deficiency anemia,315
+16,Osteoarthritis of knee,313
+17,Allergic rhinitis,312
+18,Urinary tract infectious disease,298
+19,Subclinical iodine deficiency hypothyroidism,297
+20,Urticaria,289
+21,Polyarthropathy,287
+22,Night blindness,272
+23,Hyperplasia of prostate,268
+24,Cardiac arrhythmia,261
+25,Disorder of thyroid gland,258
+26,Cholecystitis,257
+27,Asthma,248
+28,Intervertebral disc disorder,242
+29,Cerebrovascular disease,240
+30,Purulent otitis media,239
+31,Depressive disorder,237
+32,Peripheral vertigo,231
+33,Gastroesophageal reflux disease without esophagitis,228
+34,Nerve root disorder,227
+35,Mycoplasma pneumonia,224
+36,Lumbago with sciatica,217
+37,Inflammatory disease of female genital structure,214
+38,Type 2 diabetes mellitus,214
+39,Disorder of intestine,211
+40,Disorder of refraction,204
+41,Mucopurulent chronic bronchitis,204
+42,Irritable bowel syndrome,202
+43,Acute upper respiratory infection,201
+44,Acute sinusitis,199
+45,Calculus of kidney and ureter,195
+46,Varicose veins of lower extremity without ulcer AND without inflammation,195
+47,Giardiasis,194
+48,Constipation,182
+49,Gastroduodenitis,177
+50,Chronic disease of genitourinary system,174
+51,Hypothyroidism,174
+52,Labyrinthine disorder,166
+53,Mitral valve regurgitation,166
+54,Disorder of upper gastrointestinal tract,164
+55,Dietary calcium deficiency,160
+56,Peripheral vascular disease,155
+57,Anemia,154
+58,Disorder of artery,154
+59,External hemorrhoids,151
+60,Non-suppurative otitis media,150
+61,Allergic urticaria,148
+62,Postmenopausal osteoporosis,147
+63,Fibrocystic disease of breast,145
+64,Gastro-esophageal reflux disease with esophagitis,143
+65,Vertigo of central origin,142
+66,Anxiety disorder,141
+67,Mixed anxiety and depressive disorder,140
+68,Cystitis,138
+69,Neurosis,138
+70,Mild cognitive disorder,137
+71,Backache,134
+72,Cerebrovascular accident,133
+73,Gout,131
+74,Low back pain,130
+75,Varicose veins of lower extremity with inflammation,128
+76,Headache,127
+77,Angina pectoris,125
+78,Epilepsy,125
+79,Recurrent depression,123
+80,Renal colic,123
+81,Cataract,122
+82,Osteoarthritis of hip,121
+83,Autoimmune thyroiditis,119
+84,Active rickets,117
+85,Acute hemorrhagic gastritis,116
+86,Transient cerebral ischemia,116
+87,Type 1 diabetes mellitus,116
+88,Arterial embolus and thrombosis,113
+89,Arthritis of spine,113
+90,Basilar artery syndrome,111
+91,Chronic obstructive lung disease,110
+92,Moderate recurrent major depression,110
+93,Coronary arteriosclerosis,108
+94,Sleep disorder,106
+95,Presbyopia,104
+96,Disorder of artery of neck,102
+97,Obesity,102
+98,Aneurysm,100
+99,Bronchitis,100
+100,Intracerebral vascular finding,100
+101,Arteriosclerotic vascular disease,99
+102,Acute tracheitis,98
+103,Acquired coronary artery fistula,97
+104,Arthropathy,97
+105,Acute exacerbation of chronic obstructive airways disease,96
+106,Atopic dermatitis,93
+107,Nonulcer dyspepsia,92
+108,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,91
+109,Alzheimer's disease,90
+110,Disorder of the urinary system,90
+111,Arthritis,89
+112,Beta thalassemia,86
+113,Chronic uterine inflammatory disease,86
+114,Multiple yaws papillomata,86
+115,Varicose veins of pelvis,83
+116,Congestive heart failure,82
+117,Sciatica,81
+118,Cerebral infarction,79
+119,"Primary gonarthrosis, bilateral",79
+120,Supraventricular tachycardia,79
+121,Generalized ischemic myocardial dysfunction,78
+122,Paroxysmal tachycardia,77
+123,Acute bronchitis,76
+124,Chronic cystitis,75
+125,Disorder of vein,75
+126,Female pelvic inflammatory disease,74
+127,Inflammatory disease of the uterus,74
+128,Benign mammary dysplasia,73
+129,Epilepsia partialis continua,73
+130,Glaucoma,73
+131,Lesion of oral mucosa,72
+132,Disorder of cardiovascular system,71
+133,Heart failure,71
+134,Simple chronic bronchitis,70
+135,Acute cholecystitis,69
+136,Loss of consciousness,68
+137,Dilated cardiomyopathy,67
+138,Acute pharyngitis,65
+139,Bacterial pneumonia,65
+140,Benign paroxysmal positional vertigo,65
+141,Chronic sinusitis,62
+142,Disorder of esophagus,61
+143,Open wound of lower limb,61
+144,Lipoprotein deficiency disorder,60
+145,Functional disorder of intestine,59
+146,Polyneuropathy,59
+147,Peripheral venous insufficiency,56
+148,Organic hallucinosis,55
+149,Otalgia,55
+150,Bursitis of shoulder,54
+151,Disorder of eye region,54
+152,Early complication of trauma,54
+153,Kidney stone,54
+154,Diabetes mellitus,53
+155,Disorder of nervous system,53
+156,Iron deficiency anemia due to blood loss,53
+157,Thyroiditis,53
+158,Chronic purulent otitis media,52
+159,Degenerative disorder,52
+160,Disorder of digestive system,51
+161,Migraine,51
+162,Preinfarction syndrome,49
+163,Sick sinus syndrome,49
+164,Acute atopic conjunctivitis,48
+165,Genuine stress incontinence,48
+166,Irritable bowel syndrome with diarrhea,48
+167,Strabismus,48
+168,Silent myocardial ischemia,47
+169,Acquired absence of organ,46
+170,Acne,45
+171,Acute cystitis,45
+172,Allergic gastroenteritis and colitis,43
+173,Paranoid schizophrenia,43
+174,Disease of liver,42
+175,Disorder of carotid artery,42
+176,Cardiomyopathy,41
+177,Post-inflammatory hyperpigmentation,41
+178,Pruritic rash,41
+179,Acute adrenal insufficiency,40
+180,Cervicocranial syndrome,40
+181,Inguinal hernia,40
+182,Non-toxic uninodular goiter,40
+183,Varicose veins of lower extremity with ulcer,40
+184,Conduction disorder of the heart,39
+185,Myopia,39
+186,Neurogenic bladder,38
+187,Ulcer of duodenum,38
+188,Crushing injury of hip,37
+189,Hypertensive heart disease without congestive heart failure,37
+190,Rheumatism,37
+191,Acute myocardial infarction,36
+192,Pulmonary embolism,36
+193,Ureteric stone,36
+194,Acute cor pulmonale,35
+195,Allergic contact dermatitis,33
+196,Atrophic gastritis,33
+197,Chronic viral hepatitis B without delta-agent,33
+198,Diverticula of intestine,33
+199,Dysplasia of cervix,33
+200,Epilepsy with grand mal seizures on awakening,33
+201,Fracture of bone,33
+202,Open wound of foot,32
+203,Allergic disposition,30
+204,Candidiasis,30
+205,Patient feels well,30
+206,Acute conjunctivitis,29
+207,Blood coagulation disorder,29
+208,Esophagitis,29
+209,Idiopathic peripheral autonomic neuropathy,29
+210,Ulcer of lower extremity,29
+211,Achalasia of esophagus,28
+212,Amenorrhea,28
+213,Astigmatism,28
+214,COVID-19,28
+215,Chronic post-traumatic headache,28
+216,Disorder involving the integument of fetus OR newborn,28
+217,Rheumatic disease of aortic valve,28
+218,Urinary incontinence,28
+219,Disorder of accommodation,27
+220,Psoriasis vulgaris,27
+221,Pulmonary tuberculosis,27
+222,Rosacea,27
+223,Viral pneumonia,27
+224,Abnormal menstrual cycle,26
+225,Contusion of upper limb,26
+226,Hypermetropia,26
+227,Mononeuropathy,26
+228,Reactive perforating collagenosis,26
+229,Scoliosis deformity of spine,26
+230,Acquired deformity of joint of big toe,25
+231,Bilateral traumatic amputation of lower limbs,25
+232,Carcinoma in situ of stomach,25
+233,Chronic renal failure,25
+234,Congenital pes planus,25
+235,Disorder of fluid AND/OR electrolyte,25
+236,Neck pain,25
+237,Dental caries,24
+238,Disorder of calcium metabolism,24
+239,Disorder of lens,24
+240,Raynaud's disease,24
+241,Rheumatoid arthritis,24
+242,Chronic hepatitis,23
+243,Chronic kidney disease,23
+244,Old myocardial infarction,23
+245,Periapical abscess,23
+246,Senile cataract,23
+247,Absent kidney,22
+248,Anterior spinal and vertebral artery compression syndromes,22
+249,Deficiency of ligaments of knee joint,22
+250,Eating disorder,22
+251,Rectal polyp,22
+252,Common cold,21
+253,Cough,21
+254,Disorder of shoulder,21
+255,Refractory anemia (clinical),21
+256,Abrasion of tooth,20
+257,Embolism and thrombosis of an arm or leg artery,20
+258,Otitis externa,20
+259,Parkinson's disease,20
+260,Superficial injury of anterior wall of thorax,20
+261,Adverse reaction to antiplatelet agent,19
+262,Pain in limb,19
+263,Primary malignant neoplasm of breast,19
+264,Rheumatic aortic stenosis with regurgitation,18
+265,Venous varices,18
+266,Acute stress disorder,17
+267,Chronic tonsillitis,17
+268,Joint pain,17
+269,Melanocytic nevus,17
+270,Moderate binocular visual impairment,17
+271,Neoplasm of uncertain behavior of rectum,17
+272,Plummer-Vinson syndrome,17
+273,Viral hepatitis carrier,17
+274,Bullous pemphigoid,16
+275,Complicated migraine,16
+276,Dementia,16
+277,Disorder of brain,16
+278,Disorder of purine and pyrimidine metabolism,16
+279,Malaise and fatigue,16
+280,Pain in thoracic spine,16
+281,Actinic keratosis,15
+282,Calcaneal spur,15
+283,Dyspnea,15
+284,Impacted cerumen,15
+285,Neonatal acne,15
+286,Thrombophlebitis,15
+287,Toxic diffuse goiter,15
+288,Constant squint,14
+289,Disorder of soft tissue of lower limb,14
+290,Embolism and thrombosis of the vena cava,14
+291,Fever,14
+292,Intestinal parasitism,14
+293,Pathological fracture,14
+294,Acute laryngitis,13
+295,Functional diarrhea,13
+296,Hypoglycemia,13
+297,Bronchopneumonia,12
+298,Chronic pansinusitis,12
+299,Dislocations/sprains/strains,12
+300,Disorder of gallbladder,12
+301,Menopausal syndrome,12
+302,Nutritional anemia,12
+303,Postmenopausal bleeding,12
+304,Sudden idiopathic hearing loss,12
+305,Bursitis of knee,11
+306,Disorder of breast,11
+307,Diverticulosis of large intestine without diverticulitis,11
+308,Irregular periods,11
+309,Melanocytic nevus of face,11
+310,Neonatal candidiasis,11
+311,Onychomycosis due to dermatophyte,11
+312,Ulcerative colitis,11
+313,Diffuse cervicobrachial syndrome,10
+314,Partial thickness burn of upper limb,10
+315,"Primary coxarthrosis, bilateral",10
+316,Blindness AND/OR vision impairment level,9
+317,Crohn's disease,9
+318,Disuse osteoporosis,9
+319,Heart disease,9
+320,Osteoarthrosis of the carpometacarpal joint of the thumb,9
+321,Primary malignant neoplasm of rectum,9
+322,Pulmonary emphysema,9
+323,Simple obesity,9
+324,Uterine leiomyoma,9
+325,Cerebral atherosclerosis,8
+326,Chronic cholecystitis,8
+327,Irritant contact dermatitis,8
+328,Low blood pressure,8
+329,Mitral valve prolapse,8
+330,"Multiple fractures of clavicle, scapula and humerus",8
+331,Non-neoplastic nevus,8
+332,Physical AND emotional exhaustion state,8
+333,Respiratory failure,8
+334,Status epilepticus,8
+335,Sunburn of second degree,8
+336,Blepharospasm,7
+337,Influenza with non-respiratory manifestation,7
+338,Localized infection of skin AND/OR subcutaneous tissue,7
+339,"Mental state, behavior and/or psychosocial function finding",7
+340,Multiple AND bilateral precerebral artery stenosis,7
+341,MÃƒÂ©niÃƒÂ¨re's disease,7
+342,Neoplasm of uncertain behavior of skin,7
+343,Organic mental disorder,7
+344,Vitamin D deficiency,7
+345,Abnormal auditory perception,6
+346,Acute bronchiolitis,6
+347,Acute disorder of female genital organ,6
+348,Acute gastritis,6
+349,Acute lower respiratory tract infection,6
+350,Acute maxillary sinusitis,6
+351,Bleeding from nose,6
+352,Bradycardia,6
+353,Chronic tubulointerstitial nephritis,6
+354,Chronic ulcer of skin,6
+355,Degeneration of intervertebral disc,6
+356,Disorder of body system,6
+357,Disorder of spinal region,6
+358,Driver in vehicular AND/OR traffic accident,6
+359,Heat edema,6
+360,Hypertensive heart disease with congestive heart failure,6
+361,Impetigo,6
+362,Injury undetermined whether accidentally or purposely inflicted,6
+363,Left heart failure,6
+364,Mitral valve disorder,6
+365,Monoarthritis,6
+366,Non-organic sleep disorder,6
+367,Orthostatic hypotension,6
+368,Pneumonia,6
+369,Pure hyperglyceridemia,6
+370,Subacute and chronic vaginitis,6
+371,Vascular headache,6
+372,Verruca vulgaris,6
+373,Agoraphobia,5
+374,Atherosclerosis of artery,5
+375,Benign neoplasm of brain,5
+376,Blepharoconjunctivitis,5
+377,Burn of upper limb,5
+378,Circumscribed atrophy of brain,5
+379,Congenital single renal cyst,5
+380,Conjunctivitis,5
+381,Disorder of skin and/or subcutaneous tissue,5
+382,Disorder of the peripheral nervous system,5
+383,Effects of heat AND/OR light,5
+384,Excessive and frequent menstruation,5
+385,Finding related to pregnancy,5
+386,Grand mal status,5
+387,Injury of lower limb,5
+388,Neuralgia,5
+389,Nonorganic insomnia,5
+390,Obsessive-compulsive disorder,5
+391,Open wound of scalp,5
+392,Postviral fatigue syndrome,5
+393,Steatosis of liver,5
+394,Tachycardia,5
+395,Vasomotor rhinitis,5
+396,Viral infection by site,5
+397,Abscess of skin and/or subcutaneous tissue,4
+398,Adrenocortical hypofunction following procedure,4
+399,Alcohol-induced organic mental disorder,4
+400,Allergic asthma,4
+401,Aortic aneurysm,4
+402,Aortic valve stenosis,4
+403,Cardiovascular system complication of procedure,4
+404,Chronic rhinitis,4
+405,Colostomy present,4
+406,Complication of procedure,4
+407,Conductive hearing loss,4
+408,Degeneration of cervical intervertebral disc,4
+409,Derangement of knee,4
+410,Dislocation or subluxation of ankle,4
+411,Disorder of autonomic nervous system,4
+412,Dystonia,4
+413,Early stage of pregnancy,4
+414,Erysipelas,4
+415,Gastric ulcer,4
+416,Hemorrhagic complication of pregnancy,4
+417,Hypertrophic cardiomyopathy,4
+418,Illness,4
+419,Injury of head,4
+420,Injury of unknown intent by explosive,4
+421,Kyphoscoliotic heart disease,4
+422,Meconium plug,4
+423,Mild major depression,4
+424,Neoplasm of uncertain behavior of bladder,4
+425,Obstruction co-occurrent and due to bilateral inguinal hernia,4
+426,Open wound of head,4
+427,Organic solvents causing toxic effect,4
+428,Partial thickness burn of lower limb,4
+429,Superficial injury of eyelid AND/OR periocular area,4
+430,Tinnitus,4
+431,Victim of vehicular AND/OR traffic accident,4
+432,Viral disease,4
+433,Vomiting of pregnancy,4
+434,Acute laryngotracheitis,3
+435,Acute pansinusitis,3
+436,Aortic valve regurgitation,3
+437,Chickenpox with complication,3
+438,Chronic thyroiditis,3
+439,Complex regional pain syndrome,3
+440,Congenital cystic disease of liver,3
+441,Contusion of ocular adnexa and periocular tissues,3
+442,Cyst of kidney,3
+443,Deficiency of macronutrients,3
+444,Derangement of meniscus,3
+445,Diaphragmatic hernia,3
+446,Diffuse goiter,3
+447,Disease due to Gram-positive coccus,3
+448,Dislocation of hip joint,3
+449,Disorder of biliary tract,3
+450,Dysthymia,3
+451,Endometriosis (clinical),3
+452,Epidermal burn of wrist and hand,3
+453,Fracture of shaft of humerus,3
+454,Hydrocephalus,3
+455,Hyperprolactinemia,3
+456,Intervertebral disc prolapse,3
+457,Left bundle branch block,3
+458,Lipid storage disease,3
+459,Meningitis,3
+460,Menorrhagia,3
+461,Neoplasm of uncertain behavior of prostate,3
+462,Otorrhea,3
+463,Overlapping malignant neoplasm of brain,3
+464,Palpitations,3
+465,Panic disorder,3
+466,Pregnant,3
+467,Tension-type headache,3
+468,Traumatic amputation of lower extremity,3
+469,Tubulointerstitial nephritis,3
+470,Vascular dementia,3
+471,Abscess of intestine,2
+472,Acute frontal sinusitis,2
+473,Acute laryngopharyngitis,2
+474,Acute lymphadenitis,2
+475,Acute non-suppurative otitis media - serous,2
+476,Acute thyroiditis,2
+477,Acute tubulointerstitial nephritis,2
+478,Acute vaginitis,2
+479,Adrenal cortical hypofunction,2
+480,Alcoholic polyneuropathy,2
+481,Anal fissure,2
+482,Angioedema,2
+483,Ascariasis,2
+484,Bacterial infectious disease,2
+485,Benign neoplasm of liver,2
+486,Benign neoplasm of pituitary gland,2
+487,Besnier's prurigo,2
+488,Breast lump,2
+489,Candidiasis of mouth,2
+490,Cholangitis,2
+491,Chronic bronchitis,2
+492,Chronic maxillary sinusitis,2
+493,Chronic respiratory failure,2
+494,Congenital heart disease,2
+495,Convalescence after surgery,2
+496,Coronary artery spasm,2
+497,Coronavirus infection,2
+498,Cytomegalovirus infection,2
+499,Deficiency of multiple nutrient elements,2
+500,Dermatophytosis,2
+501,Deviated nasal septum,2
+502,Dislocation of tooth,2
+503,Disorder of integument,2
+504,Disorder of jaw,2
+505,Disorder of mineral metabolism,2
+506,Disorder of nerve root and/or plexus,2
+507,Disorder of pregnancy,2
+508,Disorders of initiating and maintaining sleep,2
+509,Displacement of cervical intervertebral disc,2
+510,Eczema herpeticum,2
+511,Edema,2
+512,Effect of exposure to external cause,2
+513,Elaboration of physical symptoms for psychological reasons,2
+514,Facial nerve disorder,2
+515,Fracture of phalanx of finger,2
+516,Full thickness burn of trunk,2
+517,Gallstone,2
+518,Generalized anxiety disorder,2
+519,Heartburn,2
+520,Hemorrhage of rectum and anus,2
+521,Herpes zoster encephalitis,2
+522,Herpesviral vesicular dermatitis,2
+523,Hypertrophy of adenoids,2
+524,Hypertrophy of tonsils,2
+525,Hypovolemia,2
+526,Id reaction,2
+527,Infectious mononucleosis,2
+528,Infective pneumonia,2
+529,Inflammatory dermatosis,2
+530,Injury of hip region,2
+531,Injury of unknown intent by firearms and explosives,2
+532,Intracranial injury,2
+533,Mixed asthma,2
+534,Mixed simple and mucopurulent chronic bronchitis,2
+535,Multiple congenital cysts of kidney,2
+536,Myelopathy due to spondylosis,2
+537,Neoplasm of uncertain behavior of respiratory tract,2
+538,Neoplasm of uncertain behavior of urinary system,2
+539,Open wound of upper limb,2
+540,Organic personality disorder,2
+541,Perimenopausal disorder,2
+542,Poisoning by gastrointestinal system drug,2
+543,Poisoning by salicylate,2
+544,Precordial pain,2
+545,Premenstrual tension syndrome,2
+546,Presbycusis,2
+547,Pressure ulcer,2
+548,Primary dysmenorrhea,2
+549,Primary gout,2
+550,Primary malignant neoplasm of tonsil,2
+551,Secondary hypertension,2
+552,Serum neuropathy,2
+553,Simple goiter,2
+554,Single live birth,2
+555,Solar erythema,2
+556,Solar urticaria,2
+557,Splenic cyst,2
+558,Streptococcal tonsillitis,2
+559,Sunburn of first degree,2
+560,Superficial injury of head,2
+561,Superficial injury of lower limb,2
+562,Superficial injury of scalp,2
+563,Toxic neuromuscular junction disorder,2
+564,Tricuspid valve regurgitation,2
+565,Varicella,2
+566,Varicose veins of lower extremity,2
+567,Ventricular tachycardia,2
+568,Acquired cardiac septal defect,1
+569,Acute type B viral hepatitis,1
+570,Alcohol myopathy,1
+571,Alcohol-induced chronic pancreatitis,1
+572,Alcoholic cirrhosis,1
+573,Alcoholic liver damage,1
+574,Anorectal fistula,1
+575,Aortic thromboembolism,1
+576,Arteritis,1
+577,Atherosclerosis of aorta,1
+578,Atrophic vaginitis,1
+579,Attention deficit hyperactivity disorder,1
+580,Benign neoplasm of meninges,1
+581,Benign neoplasm of ovary,1
+582,Benign neoplasm of thyroid gland,1
+583,Brachial plexus disorder,1
+584,Bronchiectasis,1
+585,Bullous aphakic keratopathy following cataract surgery,1
+586,Burn,1
+587,Burn of lower limb,1
+588,CafÃƒÂ© au lait spots,1
+589,Calculus of lower urinary tract,1
+590,Callosity,1
+591,Candida infection of genital region,1
+592,Cervical disc disorder,1
+593,Chest pain,1
+594,Childhood absence epilepsy,1
+595,Chronic myeloproliferative disorder (clinical),1
+596,Chronic prostatitis,1
+597,Cluster headache,1
+598,"Complex regional pain syndrome, type II",1
+599,Complication of surgical procedure,1
+600,Concussion injury of brain,1
+601,Congenital hiatus hernia,1
+602,Congenital septal defect of heart,1
+603,Contusion of forearm,1
+604,Contusion of trunk,1
+605,Coronary thrombosis not resulting in myocardial infarction,1
+606,Croup,1
+607,Delusional disorder,1
+608,Demyelinating disease of central nervous system,1
+609,Diabetes insipidus,1
+610,"Diffuse non-Hodgkin's lymphoma, small cell (clinical)",1
+611,Disorder of capillaries,1
+612,Disorder of female genital organs,1
+613,Disorder of hard tissues of teeth,1
+614,Disorder of joint of spine,1
+615,Disorder of kidney and/or ureter,1
+616,Disorder of meninges,1
+617,Disorder of nervous system following procedure,1
+618,Disorder of pleura,1
+619,Disorder of puberty,1
+620,Disorder of sweat gland,1
+621,Disorder of teeth AND/OR supporting structures,1
+622,Disorder of tongue,1
+623,Disorder of zinc metabolism,1
+624,Disorders of attention and motor control,1
+625,Dizziness and giddiness,1
+626,Effects of vibration,1
+627,End-stage renal disease,1
+628,Epidermal burn of trunk,1
+629,Erythema of skin,1
+630,Essential tremor,1
+631,Fever with chills,1
+632,Follicular cyst of ovary,1
+633,Fracture of fibula,1
+634,General problem AND/OR complaint,1
+635,Generalized epilepsy,1
+636,Granulomatous disorder of the skin and subcutaneous tissue,1
+637,Heart murmur,1
+638,Heat exhaustion co-occurrent and due to anhidrosis,1
+639,Hernia of anterior abdominal wall,1
+640,Herpes zoster,1
+641,Hirsutism,1
+642,Hypopituitarism,1
+643,Inflammation of cervix,1
+644,Inflammatory disease of liver,1
+645,Inflammatory disorder of digestive tract,1
+646,Ingrowing nail,1
+647,Injury of ankle,1
+648,Injury of nail,1
+649,Injury of shoulder region,1
+650,Injury of unknown intent due to fall from height,1
+651,Internal hemorrhoids without complication,1
+652,Interstitial lung disease,1
+653,Kissing spine,1
+654,Late effects of cerebrovascular disease,1
+655,Lesion of radial nerve,1
+656,Localized adiposity,1
+657,Localized scleroderma,1
+658,Lymphangioma,1
+659,Magnesium deficiency,1
+660,"Malignant neoplasm, overlapping lesion of bladder",1
+661,Melena,1
+662,Metatarsalgia,1
+663,Moderate major depression,1
+664,Muscular dystrophy,1
+665,Myoneural disorder,1
+666,Neuropathy,1
+667,Nicotine-induced organic mental disorder,1
+668,Non-toxic multinodular goiter,1
+669,Noninflammatory disorder of the female genital organs,1
+670,Oculoglandular tularemia,1
+671,Open wound in mouth,1
+672,Open wound of finger,1
+673,Open wound of nose,1
+674,Overlapping malignant neoplasm of colon,1
+675,Overlapping malignant neoplasm of skin,1
+676,Pain of breast,1
+677,Partial thickness burn of trunk,1
+678,Peptic ulcer,1
+679,Peritoneal adhesion,1
+680,Peritonsillar abscess,1
+681,Pheohyphomycotic brain abscess,1
+682,Poisoning by halogenated hydrocarbon derivative,1
+683,Poisoning due to venomous spider,1
+684,Polycystic ovary,1
+685,Polycystic ovary syndrome,1
+686,Polypoid sinus degeneration,1
+687,Primary malignant neoplasm of uterine cervix,1
+688,Primary thrombocytopenia,1
+689,Pubertal menorrhagia,1
+690,Retinal disorder,1
+691,Right bundle branch block,1
+692,Seborrheic dermatitis,1
+693,Secondary sideroblastic anemia due to drugs and toxins,1
+694,Sequela,1
+695,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),1
+696,Short stature disorder,1
+697,Solitary cyst of breast,1
+698,Somatoform autonomic dysfunction,1
+699,Spina bifida of sacral region,1
+700,Spinal and epidural anesthesia-induced headache during pregnancy,1
+701,Status migrainosus,1
+702,Stimulus deprivation amblyopia,1
+703,Sunburn of third degree,1
+704,Superficial injuries involving multiple body regions,1
+705,Superficial injury of head and neck,1
+706,Superficial mycosis,1
+707,Thyrotoxicosis,1
+708,Toxic liver disease,1
+709,Transplanted heart valve present,1
+710,Tremor,1
+711,Trigeminal nerve disorder,1
+712,Umbilical hernia,1
+713,Underdevelopment of nose,1
+714,Ventricular arrhythmia,1
+715,Vitamin deficiency,1
+716,White blood cell disorder,1
