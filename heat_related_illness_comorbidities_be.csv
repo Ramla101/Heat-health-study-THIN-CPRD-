@@ -1,0 +1,852 @@
+person_id,event_date,condition_concept_id,comorbidity_name
+3544,29/05/2017,201618,Disorder of intestine
+3544,29/05/2017,194133,Low back pain
+9330,21/09/2020,442077,Anxiety disorder
+9330,21/09/2020,440383,Depressive disorder
+13971,15/07/2019,376208,Disorder of soft tissue
+16625,12/06/2017,260427,Common cold
+16625,12/06/2017,260123,Acute sinusitis
+16625,12/06/2017,260139,Acute bronchitis
+22512,07/05/2018,4061839,Sunburn of first degree
+22512,07/05/2018,318800,Gastroesophageal reflux disease
+22512,07/05/2018,378253,Headache
+22512,07/05/2018,436074,Panic disorder
+22512,07/05/2018,442077,Anxiety disorder
+22512,07/05/2018,4061839,Sunburn of first degree
+28751,19/08/2019,320128,Essential hypertension
+28751,19/08/2019,4110948,Hypertension secondary to endocrine disorder
+28751,19/08/2019,27674,Nausea and vomiting
+28751,13/01/2020,439708,Disorders of initiating and maintaining sleep
+28751,13/01/2020,439926,Malaise and fatigue
+28751,13/01/2020,442077,Anxiety disorder
+28751,13/01/2020,4329041,Pain
+28751,04/05/2020,4329041,Pain
+28751,27/07/2020,27674,Nausea and vomiting
+28751,27/07/2020,4329041,Pain
+28751,27/07/2020,4047120,Disorders of attention and motor control
+32516,22/08/2016,138525,Pain in limb
+32516,22/08/2016,316139,Heart failure
+32516,22/08/2016,320128,Essential hypertension
+32516,22/08/2016,4068155,Atrial arrhythmia
+32516,22/08/2016,437827,Pure hypercholesterolemia
+32516,22/08/2016,440066,Disorder of purine and pyrimidine metabolism
+34517,19/06/2017,4191479,Allergic asthma
+43337,13/11/2017,439708,Disorders of initiating and maintaining sleep
+43337,13/11/2017,437903,Acute tracheitis
+43337,13/11/2017,442019,Complication of procedure
+56344,24/06/2019,440383,Depressive disorder
+62559,18/04/2016,260427,Common cold
+62559,18/04/2016,0,No matching concept
+66292,08/07/2019,0,No matching concept
+66292,08/07/2019,437827,Pure hypercholesterolemia
+66300,15/06/2015,260427,Common cold
+66300,15/06/2015,201340,Gastritis
+66300,15/06/2015,260427,Common cold
+66300,15/06/2015,260139,Acute bronchitis
+66534,20/04/2015,320128,Essential hypertension
+66534,20/04/2015,321596,Peripheral venous insufficiency
+76710,24/06/2019,320128,Essential hypertension
+76710,24/06/2019,0,No matching concept
+76710,24/06/2019,437827,Pure hypercholesterolemia
+76710,24/06/2019,440674,Gout
+82442,17/08/2015,194133,Low back pain
+91462,26/09/2022,0,No matching concept
+91462,26/09/2022,4068155,Atrial arrhythmia
+91462,26/09/2022,437530,Disorder of lipid metabolism
+96287,25/07/2016,4008576,Diabetes mellitus without complication
+96287,25/07/2016,437827,Pure hypercholesterolemia
+96287,25/07/2016,434613,Generalized anxiety disorder
+96287,25/07/2016,440383,Depressive disorder
+96287,25/07/2016,439708,Disorders of initiating and maintaining sleep
+105848,30/07/2018,4124693,Hypertrophic cardiomyopathy
+105848,30/07/2018,437827,Pure hypercholesterolemia
+105848,30/07/2018,260131,Disorder of bronchus
+113311,15/06/2020,437827,Pure hypercholesterolemia
+113311,15/06/2020,257007,Allergic rhinitis
+117375,14/06/2021,24660,Acute tonsillitis
+117375,14/06/2021,24660,Acute tonsillitis
+124612,06/09/2021,27674,Nausea and vomiting
+124612,06/09/2021,439926,Malaise and fatigue
+132332,23/02/2015,442077,Anxiety disorder
+136527,31/05/2021,4300442,Solar erythema
+140656,16/04/2018,320128,Essential hypertension
+140656,16/04/2018,4300442,Solar erythema
+140656,16/04/2018,4171917,Localized edema
+158920,16/03/2015,4238682,Physical AND emotional exhaustion state
+158920,12/06/2017,317009,Asthma
+177691,24/10/2016,4193704,Type 2 diabetes mellitus without complication
+177691,24/10/2016,439708,Disorders of initiating and maintaining sleep
+177691,24/10/2016,317009,Asthma
+177691,24/10/2016,440383,Depressive disorder
+177691,24/10/2016,440383,Depressive disorder
+177691,24/10/2016,73008,Enthesopathy
+177691,24/10/2016,4329041,Pain
+177691,30/03/2020,439708,Disorders of initiating and maintaining sleep
+177691,30/03/2020,81878,Benign paroxysmal positional vertigo
+177691,30/03/2020,4329041,Pain
+177691,30/03/2020,81878,Benign paroxysmal positional vertigo
+177691,14/09/2020,320128,Essential hypertension
+177691,14/09/2020,439708,Disorders of initiating and maintaining sleep
+177691,06/02/2017,139900,Urticaria
+177691,06/02/2017,4193704,Type 2 diabetes mellitus without complication
+177691,06/02/2017,437827,Pure hypercholesterolemia
+177691,06/02/2017,439708,Disorders of initiating and maintaining sleep
+177691,06/02/2017,442077,Anxiety disorder
+177691,06/02/2017,440383,Depressive disorder
+177691,14/12/2020,439708,Disorders of initiating and maintaining sleep
+177691,14/12/2020,442077,Anxiety disorder
+177691,14/12/2020,440383,Depressive disorder
+177691,10/08/2020,30753,Esophagitis
+177691,10/08/2020,437827,Pure hypercholesterolemia
+177691,10/08/2020,442077,Anxiety disorder
+177691,10/08/2020,440383,Depressive disorder
+177691,10/08/2020,4329041,Pain
+203397,23/07/2018,194133,Low back pain
+207702,19/06/2017,194133,Low back pain
+207702,19/06/2017,194133,Low back pain
+247243,11/07/2016,319041,Orthostatic hypotension
+247243,11/07/2016,372448,Loss of consciousness
+247243,11/07/2016,319041,Orthostatic hypotension
+247407,24/04/2017,260123,Acute sinusitis
+284246,12/06/2017,320128,Essential hypertension
+284246,12/06/2017,4193704,Type 2 diabetes mellitus without complication
+284246,12/06/2017,432867,Hyperlipidemia
+284246,12/06/2017,380378,Epilepsy
+284246,12/06/2017,257007,Allergic rhinitis
+284246,12/06/2017,255573,Chronic obstructive lung disease
+284246,12/06/2017,0,No matching concept
+284246,12/06/2017,4193704,Type 2 diabetes mellitus without complication
+307734,14/12/2015,320128,Essential hypertension
+307734,14/12/2015,139900,Urticaria
+307734,14/12/2015,30753,Esophagitis
+307734,14/12/2015,437827,Pure hypercholesterolemia
+307734,14/12/2015,442077,Anxiety disorder
+307734,14/12/2015,440383,Depressive disorder
+307734,14/12/2015,440383,Depressive disorder
+307734,14/12/2015,73008,Enthesopathy
+307734,20/06/2016,30753,Esophagitis
+307734,20/06/2016,437827,Pure hypercholesterolemia
+307734,20/06/2016,439708,Disorders of initiating and maintaining sleep
+307734,20/06/2016,440383,Depressive disorder
+307734,20/06/2016,440383,Depressive disorder
+307734,20/06/2016,4329041,Pain
+307734,06/02/2017,139900,Urticaria
+307734,06/02/2017,4193704,Type 2 diabetes mellitus without complication
+307734,06/02/2017,437827,Pure hypercholesterolemia
+307734,06/02/2017,439708,Disorders of initiating and maintaining sleep
+307734,06/02/2017,442077,Anxiety disorder
+307734,06/02/2017,440383,Depressive disorder
+307734,15/05/2017,73008,Enthesopathy
+307734,15/05/2017,320128,Essential hypertension
+307734,15/05/2017,27674,Nausea and vomiting
+307734,15/05/2017,4193704,Type 2 diabetes mellitus without complication
+307734,15/05/2017,437827,Pure hypercholesterolemia
+307734,15/05/2017,439708,Disorders of initiating and maintaining sleep
+307734,15/05/2017,440383,Depressive disorder
+307734,15/05/2017,440383,Depressive disorder
+307734,15/05/2017,73008,Enthesopathy
+307734,15/05/2017,4329041,Pain
+307734,07/08/2017,320128,Essential hypertension
+307734,07/08/2017,139900,Urticaria
+307734,07/08/2017,437827,Pure hypercholesterolemia
+307734,07/08/2017,440383,Depressive disorder
+307734,07/05/2018,30753,Esophagitis
+307734,07/05/2018,437827,Pure hypercholesterolemia
+307734,07/05/2018,439708,Disorders of initiating and maintaining sleep
+307734,07/05/2018,442077,Anxiety disorder
+307734,07/05/2018,440383,Depressive disorder
+307734,07/05/2018,440383,Depressive disorder
+307734,07/05/2018,73008,Enthesopathy
+307734,07/05/2018,4329041,Pain
+307734,24/09/2018,439708,Disorders of initiating and maintaining sleep
+307734,24/09/2018,442077,Anxiety disorder
+307734,24/09/2018,440383,Depressive disorder
+307734,24/09/2018,4046351,Intercostal neuropathy
+307734,18/02/2019,30753,Esophagitis
+307734,18/02/2019,437827,Pure hypercholesterolemia
+307734,18/02/2019,439708,Disorders of initiating and maintaining sleep
+307734,18/02/2019,255573,Chronic obstructive lung disease
+307734,18/02/2019,440383,Depressive disorder
+307734,25/03/2019,439708,Disorders of initiating and maintaining sleep
+307734,08/07/2019,320128,Essential hypertension
+307734,08/07/2019,139900,Urticaria
+307734,08/07/2019,437827,Pure hypercholesterolemia
+307734,08/07/2019,439708,Disorders of initiating and maintaining sleep
+307734,08/07/2019,442077,Anxiety disorder
+307734,08/07/2019,440383,Depressive disorder
+307734,08/07/2019,440383,Depressive disorder
+307734,08/07/2019,4329041,Pain
+307734,04/11/2019,320128,Essential hypertension
+307734,04/11/2019,30753,Esophagitis
+307734,04/11/2019,437827,Pure hypercholesterolemia
+307734,04/11/2019,439708,Disorders of initiating and maintaining sleep
+307734,04/11/2019,442077,Anxiety disorder
+307734,04/11/2019,440383,Depressive disorder
+307734,04/11/2019,4329041,Pain
+307734,10/08/2020,30753,Esophagitis
+307734,10/08/2020,437827,Pure hypercholesterolemia
+307734,10/08/2020,442077,Anxiety disorder
+307734,10/08/2020,440383,Depressive disorder
+307734,10/08/2020,4329041,Pain
+307734,14/09/2020,320128,Essential hypertension
+307734,14/09/2020,439708,Disorders of initiating and maintaining sleep
+307734,14/12/2020,439708,Disorders of initiating and maintaining sleep
+307734,14/12/2020,442077,Anxiety disorder
+307734,14/12/2020,440383,Depressive disorder
+356203,03/08/2015,433316,Dizziness and giddiness
+381490,02/07/2018,320128,Essential hypertension
+381490,02/07/2018,318800,Gastroesophageal reflux disease
+381490,02/07/2018,4193704,Type 2 diabetes mellitus without complication
+381490,02/07/2018,437827,Pure hypercholesterolemia
+381490,02/07/2018,439708,Disorders of initiating and maintaining sleep
+395780,27/03/2017,201340,Gastritis
+395780,27/03/2017,25297,Acute pharyngitis
+395780,27/03/2017,437246,Vitamin B deficiency
+395780,27/03/2017,437246,Vitamin B deficiency
+395780,27/03/2017,0,No matching concept
+395780,24/06/2019,437246,Vitamin B deficiency
+395780,24/06/2019,372328,Otitis media
+395780,24/06/2019,0,No matching concept
+395780,20/04/2020,201340,Gastritis
+395780,20/04/2020,439082,Menopausal syndrome
+395780,20/04/2020,437246,Vitamin B deficiency
+395780,20/04/2020,194133,Low back pain
+395780,15/06/2020,201340,Gastritis
+395780,15/06/2020,439082,Menopausal syndrome
+395780,15/06/2020,437246,Vitamin B deficiency
+395780,15/06/2020,194133,Low back pain
+395780,13/07/2020,0,No matching concept
+395780,13/07/2020,74728,Synovitis and tenosynovitis
+395780,13/07/2020,439664,Relationship problems
+404575,01/07/2015,81902,Urinary tract infectious disease
+404575,01/07/2015,140673,Hypothyroidism
+404575,01/07/2015,81902,Urinary tract infectious disease
+411796,27/05/2019,37311147,Hypertension stage 1
+411796,27/05/2019,27674,Nausea and vomiting
+411796,27/05/2019,433316,Dizziness and giddiness
+411796,27/05/2019,440383,Depressive disorder
+416859,12/01/2015,439708,Disorders of initiating and maintaining sleep
+416859,12/01/2015,4329041,Pain
+445013,16/08/2021,320128,Essential hypertension
+445013,16/08/2021,318800,Gastroesophageal reflux disease
+445013,16/08/2021,317009,Asthma
+446371,01/07/2015,440029,Viral disease
+462924,01/06/2017,0,No matching concept
+462924,01/06/2017,257011,Acute upper respiratory infection
+484267,23/02/2015,4266367,Influenza
+484267,23/02/2015,260427,Common cold
+484267,23/02/2015,439407,Disorder of nasal cavity
+484267,23/02/2015,4266367,Influenza
+503161,12/09/2016,30133,Acute laryngitis
+505510,17/08/2020,201618,Disorder of intestine
+506439,08/06/2015,439708,Disorders of initiating and maintaining sleep
+558806,10/01/2022,25297,Acute pharyngitis
+561295,09/03/2015,4110948,Hypertension secondary to endocrine disorder
+561295,09/03/2015,439708,Disorders of initiating and maintaining sleep
+582720,26/06/2017,318736,Migraine
+582720,26/06/2017,0,No matching concept
+582720,26/06/2017,4061839,Sunburn of first degree
+582720,26/06/2017,4061839,Sunburn of first degree
+601915,19/06/2017,200219,Abdominal pain
+601915,19/06/2017,0,No matching concept
+780672,03/07/2017,27674,Nausea and vomiting
+780672,03/07/2017,201618,Disorder of intestine
+780672,03/07/2017,317009,Asthma
+780672,12/02/2018,254761,Cough
+816630,30/07/2018,196523,Diarrhea
+816630,26/11/2018,316139,Heart failure
+816630,26/11/2018,4068155,Atrial arrhythmia
+822196,22/08/2016,201340,Gastritis
+822705,08/06/2015,4061839,Sunburn of first degree
+837357,05/03/2018,4134454,Vascular headache
+837549,28/05/2018,320128,Essential hypertension
+837549,28/05/2018,4193704,Type 2 diabetes mellitus without complication
+837549,28/05/2018,440360,Pure hyperglyceridemia
+852736,02/05/2016,27674,Nausea and vomiting
+852736,02/05/2016,436817,Feeling nervous
+870398,12/06/2017,439708,Disorders of initiating and maintaining sleep
+870398,12/06/2017,25297,Acute pharyngitis
+870398,12/06/2017,254761,Cough
+870398,12/06/2017,440029,Viral disease
+870398,12/06/2017,254761,Cough
+870398,12/06/2017,440029,Viral disease
+887351,02/10/2017,373503,Transient cerebral ischemia
+887351,02/10/2017,437827,Pure hypercholesterolemia
+887351,02/10/2017,4250023,Severe major depression with psychotic features
+887351,02/10/2017,4310996,Ischemic stroke
+887351,02/10/2017,440383,Depressive disorder
+887351,02/10/2017,373503,Transient cerebral ischemia
+887351,02/10/2017,24660,Acute tonsillitis
+887351,02/10/2017,4212727,Streptococcal tonsillitis
+887351,16/04/2018,440383,Depressive disorder
+887351,22/10/2018,440383,Depressive disorder
+887351,22/10/2018,4250023,Severe major depression with psychotic features
+887351,22/10/2018,4310996,Ischemic stroke
+887351,22/10/2018,43530623,Sequela of cerebrovascular accident
+919114,27/02/2017,321074,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium"
+919114,27/02/2017,444094,Finding related to pregnancy
+919114,27/02/2017,437827,Pure hypercholesterolemia
+919114,27/02/2017,381316,Cerebrovascular accident
+919114,27/02/2017,194133,Low back pain
+941748,01/06/2015,201618,Disorder of intestine
+941748,01/06/2015,201618,Disorder of intestine
+945899,29/05/2017,25297,Acute pharyngitis
+945899,29/05/2017,4275423,Supraventricular tachycardia
+986668,07/05/2018,320128,Essential hypertension
+986668,07/05/2018,30753,Esophagitis
+986668,07/05/2018,27674,Nausea and vomiting
+986668,07/05/2018,437827,Pure hypercholesterolemia
+986668,07/05/2018,439708,Disorders of initiating and maintaining sleep
+986668,07/05/2018,255573,Chronic obstructive lung disease
+986668,07/05/2018,442077,Anxiety disorder
+986668,07/05/2018,4329041,Pain
+986668,07/05/2018,435243,Alcohol dependence
+986668,07/05/2018,440383,Depressive disorder
+986668,07/05/2018,0,No matching concept
+1015880,22/08/2016,81379,Lateral epicondylitis
+1015880,22/08/2016,320128,Essential hypertension
+1015880,22/08/2016,81379,Lateral epicondylitis
+1015880,22/08/2016,81379,Lateral epicondylitis
+1015880,23/07/2018,320128,Essential hypertension
+1026989,12/09/2016,440383,Depressive disorder
+1116736,04/07/2016,435839,Lymphedema
+1116736,04/07/2016,434821,Systemic inflammatory response syndrome
+1116736,04/07/2016,438720,Mixed hyperlipidemia
+1116736,04/07/2016,436817,Feeling nervous
+1126620,05/08/2019,140673,Hypothyroidism
+1143785,31/05/2021,0,No matching concept
+1150288,19/07/2021,4031164,Non-scarring alopecia
+1170254,24/06/2019,0,No matching concept
+1170254,24/06/2019,4061839,Sunburn of first degree
+1196824,13/06/2022,75576,Irritable bowel syndrome
+1196824,13/06/2022,0,No matching concept
+1222364,09/05/2016,27674,Nausea and vomiting
+1237614,03/06/2019,0,No matching concept
+1237614,03/06/2019,318736,Migraine
+1533485,03/12/2018,374919,Multiple sclerosis
+1533485,03/12/2018,442077,Anxiety disorder
+1533485,03/12/2018,194133,Low back pain
+1533485,05/08/2019,374919,Multiple sclerosis
+1533485,05/08/2019,194133,Low back pain
+1533485,05/08/2019,4208264,Muscle contracture
+1534424,29/04/2019,80951,Candidiasis of urogenital site
+1534424,29/04/2019,4038666,Traveler's diarrhea
+1534424,29/04/2019,4305500,Vasomotor rhinitis
+1534424,29/04/2019,376208,Disorder of soft tissue
+1534424,09/09/2019,4305500,Vasomotor rhinitis
+1597860,31/08/2015,27674,Nausea and vomiting
+1615732,22/05/2017,74728,Synovitis and tenosynovitis
+1619600,18/06/2018,432250,Disorder due to infection
+1619600,18/06/2018,45766714,Inflammatory dermatosis
+1619600,18/06/2018,432250,Disorder due to infection
+1649925,20/08/2018,140673,Hypothyroidism
+1669309,01/06/2015,4053584,Superficial injury
+1681541,24/06/2019,201618,Disorder of intestine
+1681541,24/06/2019,201618,Disorder of intestine
+1687923,15/06/2015,380111,Acute atopic conjunctivitis
+1693193,14/06/2021,27674,Nausea and vomiting
+1693671,29/05/2017,139900,Urticaria
+1694132,18/05/2015,444429,Herpes simplex
+1703137,12/09/2016,4300442,Solar erythema
+1703137,12/09/2016,201618,Disorder of intestine
+1704159,15/05/2017,432307,Disorder of vagus nerve
+1767792,21/06/2021,320128,Essential hypertension
+1767792,21/06/2021,4008576,Diabetes mellitus without complication
+1768459,15/05/2017,201340,Gastritis
+1770620,13/04/2015,201618,Disorder of intestine
+1770620,13/04/2015,0,No matching concept
+1770620,13/04/2015,260123,Acute sinusitis
+1773958,08/06/2015,24660,Acute tonsillitis
+1799130,02/08/2021,439708,Disorders of initiating and maintaining sleep
+1799432,08/05/2017,320128,Essential hypertension
+1799432,08/05/2017,23325,Heartburn
+1799432,08/05/2017,4193704,Type 2 diabetes mellitus without complication
+1799432,08/05/2017,439708,Disorders of initiating and maintaining sleep
+1813862,13/07/2015,374035,Keratitis
+1814584,01/07/2015,260123,Acute sinusitis
+1814584,01/07/2015,4320791,Rhinitis
+1818990,10/09/2018,0,No matching concept
+1831616,22/07/2019,201340,Gastritis
+1849251,10/08/2020,201618,Disorder of intestine
+1852629,12/06/2017,442019,Complication of procedure
+1860400,20/05/2019,318800,Gastroesophageal reflux disease
+1860400,20/05/2019,257007,Allergic rhinitis
+1860400,20/05/2019,440383,Depressive disorder
+1860400,20/05/2019,439708,Disorders of initiating and maintaining sleep
+1860400,20/05/2019,73008,Enthesopathy
+1860400,20/05/2019,4061839,Sunburn of first degree
+1860400,20/05/2019,4153877,Post-traumatic wound infection
+1877827,18/05/2015,442019,Complication of procedure
+1877827,18/01/2016,140480,Impetigo
+1877827,18/01/2016,45766714,Inflammatory dermatosis
+1877827,06/03/2017,442019,Complication of procedure
+1877827,06/03/2017,45766714,Inflammatory dermatosis
+1877827,06/03/2017,0,No matching concept
+1880561,09/05/2016,435839,Lymphedema
+1900813,09/12/2019,4084966,Candida infection of genital region
+1900813,09/12/2019,440383,Depressive disorder
+1902200,30/07/2018,0,No matching concept
+1924828,05/01/2015,442077,Anxiety disorder
+1924828,05/01/2015,439708,Disorders of initiating and maintaining sleep
+1925602,06/06/2016,434272,Varicella
+1934384,10/08/2015,140821,Spasm
+1934384,01/07/2015,201340,Gastritis
+1934384,01/07/2015,0,No matching concept
+1934384,01/07/2015,320128,Essential hypertension
+1934384,01/07/2015,201340,Gastritis
+1934384,01/07/2015,201340,Gastritis
+1937429,29/06/2015,25297,Acute pharyngitis
+1942400,08/06/2015,437246,Vitamin B deficiency
+1942400,08/06/2015,318736,Migraine
+1945881,29/06/2015,198678,Intestinal infectious disease
+1945881,29/06/2015,198678,Intestinal infectious disease
+1961739,06/06/2016,257007,Allergic rhinitis
+1961739,06/06/2016,257007,Allergic rhinitis
+1961739,06/06/2016,4227449,Spondylosis
+2012613,12/06/2017,0,No matching concept
+2040548,28/08/2017,138346,Erysipelas
+2040548,28/08/2017,138346,Erysipelas
+2040548,28/08/2017,4266323,Erysipeloid
+2040548,28/08/2017,201340,Gastritis
+2040548,28/08/2017,138346,Erysipelas
+2040548,28/08/2017,138346,Erysipelas
+2041969,29/05/2017,443600,Localized infection of skin AND/OR subcutaneous tissue
+2042137,22/06/2020,444429,Herpes simplex
+2042137,22/06/2020,444429,Herpes simplex
+2042137,22/06/2020,435524,Sleep disorder
+2042137,22/06/2020,444429,Herpes simplex
+2059308,05/10/2015,0,No matching concept
+2059824,22/08/2016,375519,Alcohol withdrawal syndrome
+2059824,22/08/2016,435243,Alcohol dependence
+2059824,22/08/2016,201618,Disorder of intestine
+2061622,10/08/2015,201618,Disorder of intestine
+2068934,18/07/2016,4329041,Pain
+2090416,14/11/2016,257007,Allergic rhinitis
+2090416,14/11/2016,439407,Disorder of nasal cavity
+2097001,15/06/2015,0,No matching concept
+2097001,15/06/2015,0,No matching concept
+2132059,28/05/2018,27674,Nausea and vomiting
+2152539,07/11/2016,4061839,Sunburn of first degree
+2188432,22/04/2019,257007,Allergic rhinitis
+2188432,22/04/2019,257007,Allergic rhinitis
+2196262,01/07/2015,0,No matching concept
+2196262,01/07/2015,135858,Disorder of lip
+2196262,01/07/2015,194133,Low back pain
+2201079,23/07/2018,378253,Headache
+2204330,03/08/2015,27674,Nausea and vomiting
+2204586,08/06/2015,201618,Disorder of intestine
+2206147,06/08/2018,201618,Disorder of intestine
+2206147,06/08/2018,201618,Disorder of intestine
+2223286,10/08/2020,320741,Thrombophlebitis
+2223286,10/08/2020,439777,Anemia
+2223286,10/08/2020,29735,Candidiasis of mouth
+2223286,10/08/2020,257007,Allergic rhinitis
+2223286,10/08/2020,436070,Vitamin D deficiency
+2225860,01/08/2018,25297,Acute pharyngitis
+2225860,01/08/2018,25297,Acute pharyngitis
+2228344,03/08/2015,440612,Toxic effect of tobacco and nicotine
+2229636,22/06/2015,320128,Essential hypertension
+2229636,22/06/2015,381270,Parkinson's disease
+2229636,22/06/2015,43531003,Essential tremor
+2232855,02/07/2018,4148108,Pediculosis and phthirus infections
+2233313,06/08/2018,441946,Calcific tendinitis of shoulder
+2233415,12/09/2016,4147494,Nonspecific mesenteric adenitis
+2233415,12/09/2016,316084,Lymphadenitis
+2233597,06/04/2015,440029,Viral disease
+2233597,06/04/2015,437784,Infectious mononucleosis
+2233597,06/04/2015,315085,Lymphadenopathy
+2233597,06/04/2015,260427,Common cold
+2233597,06/04/2015,254761,Cough
+2233597,06/04/2015,440029,Viral disease
+2233665,28/08/2017,27674,Nausea and vomiting
+2233665,28/08/2017,201061,Diaphragmatic hernia
+2233665,28/08/2017,201061,Diaphragmatic hernia
+2237665,08/06/2015,380111,Acute atopic conjunctivitis
+2237665,08/06/2015,257007,Allergic rhinitis
+2237665,08/06/2015,380111,Acute atopic conjunctivitis
+2237665,08/06/2015,257007,Allergic rhinitis
+2237665,08/06/2015,317009,Asthma
+2240470,19/06/2017,4300442,Solar erythema
+2240470,19/06/2017,4300442,Solar erythema
+2243958,01/07/2015,196523,Diarrhea
+2243958,01/07/2015,27674,Nausea and vomiting
+2244969,01/07/2015,24660,Acute tonsillitis
+2244969,01/07/2015,24660,Acute tonsillitis
+2244969,01/07/2015,317009,Asthma
+2257333,12/06/2017,27674,Nausea and vomiting
+2264453,23/07/2018,201618,Disorder of intestine
+2271187,29/06/2015,24660,Acute tonsillitis
+2271187,29/06/2015,25297,Acute pharyngitis
+2272764,12/06/2017,4061839,Sunburn of first degree
+2272764,12/06/2017,4061839,Sunburn of first degree
+2282549,22/08/2016,318736,Migraine
+2282549,22/08/2016,27674,Nausea and vomiting
+2282549,22/08/2016,318736,Migraine
+2282549,22/08/2016,376707,Acute conjunctivitis
+2283338,01/06/2021,440029,Viral disease
+2292715,07/03/2016,80502,Osteoporosis
+2292715,07/03/2016,440029,Viral disease
+2292715,07/03/2016,440029,Viral disease
+2294591,15/08/2016,4266367,Influenza
+2309448,06/06/2016,440029,Viral disease
+2309448,06/06/2016,440029,Viral disease
+2309448,06/06/2016,440029,Viral disease
+2316254,29/05/2017,318789,Respiratory condition due to chemical fumes AND/OR vapors
+2316254,29/05/2017,380111,Acute atopic conjunctivitis
+2332547,22/07/2019,139900,Urticaria
+2344292,06/06/2016,198678,Intestinal infectious disease
+2344292,06/06/2016,434920,Hypochondriasis
+2344292,06/06/2016,197032,Hyperplasia of prostate
+2358191,22/08/2016,201618,Disorder of intestine
+2359083,27/06/2016,0,No matching concept
+2359083,27/06/2016,320128,Essential hypertension
+2359083,27/06/2016,30753,Esophagitis
+2359083,27/06/2016,4193704,Type 2 diabetes mellitus without complication
+2372712,14/06/2021,27674,Nausea and vomiting
+2372712,14/06/2021,439264,Acute suppurative otitis media
+2389222,12/01/2015,200174,Disorder of skin and/or subcutaneous tissue
+2389222,12/01/2015,4169287,Itching of skin
+2389222,12/01/2015,201340,Gastritis
+2389222,12/01/2015,439708,Disorders of initiating and maintaining sleep
+2389222,12/01/2015,318736,Migraine
+2389222,12/01/2015,317009,Asthma
+2389222,12/01/2015,4329041,Pain
+2389222,12/01/2015,4329041,Pain
+2389222,12/01/2015,139900,Urticaria
+2389222,12/01/2015,4169287,Itching of skin
+2389222,12/01/2015,318800,Gastroesophageal reflux disease
+2389222,12/01/2015,201340,Gastritis
+2389222,12/01/2015,27674,Nausea and vomiting
+2389222,12/01/2015,4141640,Perimenopausal disorder
+2389222,12/01/2015,437827,Pure hypercholesterolemia
+2389222,12/01/2015,4174262,Polyneuropathy
+2389222,12/01/2015,439708,Disorders of initiating and maintaining sleep
+2389222,12/01/2015,439926,Malaise and fatigue
+2389222,12/01/2015,380378,Epilepsy
+2389222,12/01/2015,433316,Dizziness and giddiness
+2389222,12/01/2015,260427,Common cold
+2389222,12/01/2015,257007,Allergic rhinitis
+2389222,12/01/2015,317009,Asthma
+2389222,12/01/2015,442077,Anxiety disorder
+2389222,12/01/2015,4329041,Pain
+2389222,12/01/2015,372409,Sciatica
+2389222,12/01/2015,77644,Adhesive capsulitis of shoulder
+2389222,12/01/2015,4329041,Pain
+2389222,12/01/2015,140821,Spasm
+2389222,12/01/2015,440383,Depressive disorder
+2389222,24/10/2016,442077,Anxiety disorder
+2389222,12/12/2016,4141640,Perimenopausal disorder
+2389222,12/12/2016,439926,Malaise and fatigue
+2389222,12/12/2016,442077,Anxiety disorder
+2389222,20/03/2017,139900,Urticaria
+2389222,20/03/2017,318800,Gastroesophageal reflux disease
+2389222,20/03/2017,317009,Asthma
+2389222,20/03/2017,442077,Anxiety disorder
+2389222,20/03/2017,4329041,Pain
+2389222,20/03/2017,440383,Depressive disorder
+2389222,11/03/2019,139900,Urticaria
+2389222,11/03/2019,318800,Gastroesophageal reflux disease
+2389222,11/03/2019,4141640,Perimenopausal disorder
+2389222,11/03/2019,439708,Disorders of initiating and maintaining sleep
+2389222,11/03/2019,260427,Common cold
+2389222,11/03/2019,317009,Asthma
+2389222,11/03/2019,442077,Anxiety disorder
+2389222,11/03/2019,4329041,Pain
+2389222,11/03/2019,440383,Depressive disorder
+2389222,02/09/2019,318800,Gastroesophageal reflux disease
+2389222,02/09/2019,4141640,Perimenopausal disorder
+2389222,02/09/2019,439708,Disorders of initiating and maintaining sleep
+2389222,02/09/2019,260427,Common cold
+2389222,02/09/2019,317009,Asthma
+2389222,02/09/2019,442077,Anxiety disorder
+2389222,02/09/2019,4329041,Pain
+2389222,02/09/2019,440383,Depressive disorder
+2389222,23/11/2020,439926,Malaise and fatigue
+2389222,23/11/2020,4329041,Pain
+2389222,25/10/2021,4171917,Localized edema
+2389222,25/10/2021,380378,Epilepsy
+2389222,25/10/2021,317009,Asthma
+2389222,25/10/2021,4329041,Pain
+2405630,15/05/2017,0,No matching concept
+2422266,22/02/2021,320128,Essential hypertension
+2422266,22/02/2021,140673,Hypothyroidism
+2422266,22/02/2021,257007,Allergic rhinitis
+2431910,03/08/2015,198678,Intestinal infectious disease
+2433090,02/07/2018,4130017,Congenital hypothyroidism without goiter
+2439338,24/06/2019,201618,Disorder of intestine
+2439850,23/07/2018,134438,Contact dermatitis
+2439850,23/07/2018,4250023,Severe major depression with psychotic features
+2439850,23/07/2018,440383,Depressive disorder
+2439850,23/07/2018,80502,Osteoporosis
+2439850,23/07/2018,4061839,Sunburn of first degree
+2448240,05/02/2018,376707,Acute conjunctivitis
+2448240,05/02/2018,432795,Traumatic or non-traumatic injury
+2448409,29/05/2017,27674,Nausea and vomiting
+2448409,29/05/2017,4162253,Primary malignant neoplasm of breast
+2448990,06/06/2016,25297,Acute pharyngitis
+2448990,06/06/2016,25297,Acute pharyngitis
+2458279,29/05/2017,198678,Intestinal infectious disease
+2460508,07/08/2017,378253,Headache
+2460524,07/08/2017,378253,Headache
+2478583,22/08/2016,378253,Headache
+2485505,20/06/2016,74728,Synovitis and tenosynovitis
+2485505,20/06/2016,318736,Migraine
+2485505,20/06/2016,0,No matching concept
+2486136,03/06/2019,30133,Acute laryngitis
+2486149,09/05/2016,27674,Nausea and vomiting
+2486149,01/04/2022,196523,Diarrhea
+2486149,01/04/2022,27674,Nausea and vomiting
+2487167,01/07/2015,201603,Disorder of teeth AND/OR supporting structures
+2490367,10/10/2016,133141,Tinea pedis
+2490367,10/10/2016,201618,Disorder of intestine
+2490367,10/10/2016,30978,Thalassemia
+2490367,10/10/2016,437663,Fever
+2490367,10/10/2016,440029,Viral disease
+2490367,10/10/2016,260134,Croup
+2490367,10/10/2016,260139,Acute bronchitis
+2490367,16/05/2022,440029,Viral disease
+2491862,01/06/2021,376707,Acute conjunctivitis
+2492301,25/07/2016,444429,Herpes simplex
+2492301,25/07/2016,0,No matching concept
+2508319,03/06/2019,440029,Viral disease
+2508319,03/06/2019,440029,Viral disease
+2508319,03/06/2019,440029,Viral disease
+2508319,03/06/2019,440029,Viral disease
+2520761,05/06/2017,260123,Acute sinusitis
+2520761,05/06/2017,4145497,Intrinsic asthma
+2520761,05/06/2017,439708,Disorders of initiating and maintaining sleep
+2520761,05/06/2017,439708,Disorders of initiating and maintaining sleep
+2520761,05/06/2017,0,No matching concept
+2520761,05/06/2017,260123,Acute sinusitis
+2527753,01/03/2016,318800,Gastroesophageal reflux disease
+2527753,01/03/2016,4043371,Inflammatory disorder of digestive tract
+2527753,01/03/2016,0,No matching concept
+2527753,01/03/2016,440029,Viral disease
+2527753,01/03/2016,257007,Allergic rhinitis
+2527753,01/03/2016,257011,Acute upper respiratory infection
+2527753,01/03/2016,440383,Depressive disorder
+2527753,01/03/2016,440383,Depressive disorder
+2527753,01/03/2016,439708,Disorders of initiating and maintaining sleep
+2527753,01/03/2016,134736,Backache
+2527753,01/03/2016,77074,Joint pain
+2527753,01/03/2016,4136715,Fracture of proximal end of radius
+2527753,01/03/2016,0,No matching concept
+2527753,01/03/2016,435524,Sleep disorder
+2527753,16/05/2022,4061839,Sunburn of first degree
+2541579,29/05/2017,4027663,Peptic ulcer
+2541579,29/05/2017,378253,Headache
+2541579,29/05/2017,439708,Disorders of initiating and maintaining sleep
+2541579,29/05/2017,4176464,Psychostimulant withdrawal
+2550793,01/08/2016,4061839,Sunburn of first degree
+2550793,01/08/2016,439708,Disorders of initiating and maintaining sleep
+2558251,22/08/2016,378253,Headache
+2564611,12/09/2016,201618,Disorder of intestine
+2564611,12/09/2016,201618,Disorder of intestine
+2564978,29/05/2017,4061839,Sunburn of first degree
+2564978,29/05/2017,4061839,Sunburn of first degree
+2571738,19/06/2017,0,No matching concept
+2571738,19/06/2017,0,No matching concept
+2582927,29/05/2017,257007,Allergic rhinitis
+2582927,29/05/2017,198678,Intestinal infectious disease
+2582927,29/05/2017,4266367,Influenza
+2582927,29/05/2017,257007,Allergic rhinitis
+2582927,29/05/2017,4191479,Allergic asthma
+2582927,29/05/2017,317009,Asthma
+2586931,16/05/2022,4289526,Nonulcer dyspepsia
+2587055,19/06/2017,260427,Common cold
+2587055,19/06/2017,318800,Gastroesophageal reflux disease
+2587055,19/06/2017,260427,Common cold
+2587518,05/12/2016,139900,Urticaria
+2587518,05/12/2016,4105886,Adverse reaction
+2587518,05/12/2016,0,No matching concept
+2587518,05/12/2016,260427,Common cold
+2587518,05/12/2016,25297,Acute pharyngitis
+2587518,05/12/2016,317009,Asthma
+2587518,05/12/2016,440383,Depressive disorder
+2587518,05/12/2016,25297,Acute pharyngitis
+2587518,05/12/2016,260427,Common cold
+2587518,05/12/2016,25297,Acute pharyngitis
+2587518,01/02/2022,260427,Common cold
+2587518,01/02/2022,25297,Acute pharyngitis
+2592037,19/06/2017,439926,Malaise and fatigue
+2596913,28/05/2018,138525,Pain in limb
+2596913,28/05/2018,30753,Esophagitis
+2596913,28/05/2018,4134120,Cerebral palsy
+2596913,28/05/2018,138525,Pain in limb
+2596913,28/05/2018,4208264,Muscle contracture
+2596913,28/05/2018,136497,Scar conditions and fibrosis of skin
+2596913,28/05/2018,30753,Esophagitis
+2596913,28/05/2018,4134120,Cerebral palsy
+2608577,09/10/2017,4001450,Lumbago with sciatica
+2608577,09/10/2017,0,No matching concept
+2608577,09/10/2017,432282,Sideroblastic anemia
+2608577,09/10/2017,4146209,Iron deficiency
+2608577,09/10/2017,439708,Disorders of initiating and maintaining sleep
+2611955,07/05/2018,440029,Viral disease
+2611955,07/05/2018,378253,Headache
+2611955,07/05/2018,440029,Viral disease
+2616600,22/04/2019,198678,Intestinal infectious disease
+2624199,19/06/2017,4268911,Disorientated
+2624199,19/06/2017,440383,Depressive disorder
+2624199,19/06/2017,440383,Depressive disorder
+2632095,10/04/2017,4027539,Disorder of skin AND/OR subcutaneous tissue of head
+2636903,08/05/2017,30133,Acute laryngitis
+2642850,29/05/2017,25297,Acute pharyngitis
+2642850,29/05/2017,25297,Acute pharyngitis
+2647720,19/06/2017,141216,Molluscum contagiosum infection
+2655373,24/06/2019,0,No matching concept
+2655382,26/08/2019,195588,Cystitis
+2655382,26/08/2019,0,No matching concept
+2659669,21/01/2019,25297,Acute pharyngitis
+2661931,01/07/2021,200445,Chronic prostatitis
+2673801,02/10/2017,376208,Disorder of soft tissue
+2673801,02/10/2017,320741,Thrombophlebitis
+2673801,02/10/2017,139900,Urticaria
+2673801,02/10/2017,318800,Gastroesophageal reflux disease
+2673801,02/10/2017,198678,Intestinal infectious disease
+2673801,02/10/2017,4197094,Disorder of lower gastrointestinal tract
+2673801,02/10/2017,439708,Disorders of initiating and maintaining sleep
+2673801,02/10/2017,376382,Tension-type headache
+2673801,02/10/2017,435524,Sleep disorder
+2673801,02/10/2017,437543,Multiple cranial nerve palsy
+2673801,02/10/2017,260427,Common cold
+2673801,02/10/2017,439264,Acute suppurative otitis media
+2673801,02/10/2017,24660,Acute tonsillitis
+2673801,02/10/2017,257011,Acute upper respiratory infection
+2673801,02/10/2017,256722,Bronchopneumonia
+2673801,02/10/2017,440383,Depressive disorder
+2673801,02/10/2017,439708,Disorders of initiating and maintaining sleep
+2673801,02/10/2017,435524,Sleep disorder
+2673801,02/10/2017,4182847,Simple phobia
+2673801,02/10/2017,436817,Feeling nervous
+2673801,02/10/2017,0,No matching concept
+2673801,02/10/2017,4000609,Disorder of upper gastrointestinal tract
+2673801,02/10/2017,194133,Low back pain
+2673801,02/10/2017,198678,Intestinal infectious disease
+2692422,22/04/2019,256439,Allergic rhinitis due to pollen
+2692422,22/04/2019,4169287,Itching of skin
+2692422,22/04/2019,256439,Allergic rhinitis due to pollen
+2709133,24/06/2019,141095,Acne
+2709133,24/06/2019,257007,Allergic rhinitis
+2723636,11/06/2018,440383,Depressive disorder
+2723636,11/06/2018,444243,Neurosis
+2724125,16/05/2022,0,No matching concept
+2734238,22/07/2019,439082,Menopausal syndrome
+2734238,22/07/2019,439708,Disorders of initiating and maintaining sleep
+2734238,22/07/2019,75897,Polyarthropathy
+2734238,22/07/2019,194133,Low back pain
+2788349,28/05/2018,0,No matching concept
+2788487,06/08/2018,256722,Bronchopneumonia
+2788487,06/08/2018,4208264,Muscle contracture
+2797425,23/07/2018,4208264,Muscle contracture
+2797425,23/07/2018,4251304,Intervertebral disc prolapse
+2797425,23/07/2018,320128,Essential hypertension
+2797425,23/07/2018,318800,Gastroesophageal reflux disease
+2797425,23/07/2018,201061,Diaphragmatic hernia
+2797425,23/07/2018,4201745,Disorder of digestive system
+2797425,23/07/2018,42537748,Acquired absence of organ
+2797425,23/07/2018,0,No matching concept
+2797425,23/07/2018,380094,Carpal tunnel syndrome
+2797425,23/07/2018,0,No matching concept
+2797425,23/07/2018,317009,Asthma
+2797425,23/07/2018,440383,Depressive disorder
+2797425,23/07/2018,0,No matching concept
+2797425,23/07/2018,4056717,Injury of muscle and tendon at hip and thigh level
+2797425,23/07/2018,320128,Essential hypertension
+2797425,23/07/2018,318800,Gastroesophageal reflux disease
+2797425,23/07/2018,317009,Asthma
+2797425,23/07/2018,440383,Depressive disorder
+2797425,23/07/2018,4251304,Intervertebral disc prolapse
+2803053,24/06/2019,0,No matching concept
+2803053,24/06/2019,4061839,Sunburn of first degree
+2862365,22/04/2019,0,No matching concept
+2871345,14/01/2019,439708,Disorders of initiating and maintaining sleep
+2871345,14/01/2019,44784217,Cardiac arrhythmia
+2871345,14/01/2019,318169,Varicose veins of lower extremity
+2871345,14/01/2019,4068155,Atrial arrhythmia
+2871345,14/01/2019,318800,Gastroesophageal reflux disease
+2871345,14/01/2019,437827,Pure hypercholesterolemia
+2871345,14/01/2019,439708,Disorders of initiating and maintaining sleep
+2871345,14/01/2019,442077,Anxiety disorder
+2871345,14/01/2019,440383,Depressive disorder
+2871345,14/01/2019,440383,Depressive disorder
+2871345,14/01/2019,442077,Anxiety disorder
+2873225,08/02/2021,45766714,Inflammatory dermatosis
+2889174,25/05/2020,4061839,Sunburn of first degree
+2889889,19/03/2018,200219,Abdominal pain
+2889889,19/03/2018,201618,Disorder of intestine
+2889889,19/03/2018,260427,Common cold
+2909320,22/04/2019,198678,Intestinal infectious disease
+2934943,26/08/2019,437949,Sunburn of third degree
+2955276,21/06/2021,4242574,Intertrigo
+2963642,25/05/2020,439708,Disorders of initiating and maintaining sleep
+2967260,30/07/2018,196523,Diarrhea
+2970565,26/04/2021,0,No matching concept
+2970565,26/04/2021,4146209,Iron deficiency
+2986435,19/07/2021,4031164,Non-scarring alopecia
+3004146,20/01/2020,196523,Diarrhea
+3004146,20/01/2020,37311061,COVID-19
+3004146,20/01/2020,257007,Allergic rhinitis
+3004146,20/01/2020,254761,Cough
+3025440,18/07/2022,196523,Diarrhea
+3025792,19/07/2021,4031164,Non-scarring alopecia
+3030019,18/05/2020,4061839,Sunburn of first degree
+3030019,18/05/2020,27674,Nausea and vomiting
+3059351,22/11/2021,4145825,Anorectal disorder
+3059465,16/05/2022,320128,Essential hypertension
+3060474,07/06/2021,25297,Acute pharyngitis
+3064637,05/12/2022,318736,Migraine
+3064637,05/12/2022,4329041,Pain
+3065941,10/12/2018,320128,Essential hypertension
+3065941,21/03/2022,320128,Essential hypertension
+3093291,08/08/2022,4053584,Superficial injury
+3093291,08/08/2022,4110948,Hypertension secondary to endocrine disorder
+3093291,08/08/2022,437827,Pure hypercholesterolemia
+3093291,08/08/2022,4174262,Polyneuropathy
+3093291,08/08/2022,439708,Disorders of initiating and maintaining sleep
+3093291,08/08/2022,4329041,Pain
+3093291,08/08/2022,195588,Cystitis
+3110916,21/03/2022,320128,Essential hypertension
+3115139,27/07/2020,201340,Gastritis
+3115139,27/07/2020,201340,Gastritis
+3115139,27/07/2020,201618,Disorder of intestine
+3115139,27/07/2020,200219,Abdominal pain
+3148474,01/07/2021,380731,Otitis externa
+3148474,01/07/2021,318800,Gastroesophageal reflux disease
+3148474,01/07/2021,437827,Pure hypercholesterolemia
+3148474,01/07/2021,380731,Otitis externa
+3148474,01/07/2021,257007,Allergic rhinitis
+3188178,04/12/2017,320128,Essential hypertension
+3188178,04/12/2017,140673,Hypothyroidism
+3188178,04/12/2017,437827,Pure hypercholesterolemia
+3188178,04/12/2017,80502,Osteoporosis
+3202277,18/07/2022,4201745,Disorder of digestive system
+3202277,18/07/2022,42537748,Acquired absence of organ
+3202277,18/07/2022,260427,Common cold
+3202277,11/07/2022,201618,Disorder of intestine
+3222592,14/01/2019,0,No matching concept
+3222592,14/01/2019,44784217,Cardiac arrhythmia
+3222592,14/01/2019,321596,Peripheral venous insufficiency
+3222592,14/01/2019,372604,Movement disorder
+3222592,14/01/2019,140949,Infestation by Sarcoptes scabiei var hominis
+3222592,14/01/2019,139900,Urticaria
+3222592,14/01/2019,4169287,Itching of skin
+3222592,14/01/2019,140673,Hypothyroidism
+3222592,14/01/2019,318800,Gastroesophageal reflux disease
+3222592,14/01/2019,37311061,COVID-19
+3222592,14/01/2019,437827,Pure hypercholesterolemia
+3222592,14/01/2019,4174262,Polyneuropathy
+3222592,14/01/2019,439708,Disorders of initiating and maintaining sleep
+3222592,14/01/2019,442077,Anxiety disorder
+3222592,14/01/2019,440383,Depressive disorder
+3222592,14/01/2019,4208264,Muscle contracture
+3288804,21/06/2021,4173734,Acute pansinusitis
+3306780,19/06/2017,440383,Depressive disorder
+3372904,08/08/2022,134438,Contact dermatitis
+3376097,04/07/2022,36716659,Recurrent aphthous stomatitis
+3376097,04/07/2022,27674,Nausea and vomiting
+3376097,04/07/2022,135473,Dermatophytosis
+3376097,04/07/2022,75897,Polyarthropathy
+3470458,09/05/2022,377575,Tinnitus
+3470458,09/05/2022,437784,Infectious mononucleosis
+3470458,09/05/2022,40481327,Acquired absence of all teeth
